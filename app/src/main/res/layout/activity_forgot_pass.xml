@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="viewmodel"
+            type="com.example.bookstore.viewmodel.ForgotPassVM" />
+    </data>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical">
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imageview_logo"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/fort" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/textview_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Forgot Password"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            app:fontFamily="Bold" />
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                app:cardElevation="8dp"
+                app:cardUseCompatPadding="true"
+                app:cardCornerRadius="16dp">
+                <androidx.appcompat.widget.LinearLayoutCompat
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="15dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:layout_gravity="center_horizontal"
+                        android:src="@drawable/forpass"
+                        />
+
+
+                    <com.google.android.material.textfield.TextInputLayout
+                        android:id="@+id/text_input_layout_mobile"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/fifteen_dp"
+                        app:helperText=""
+                        style="@style/AppTheme.TextInputLayout"
+                        app:hintEnabled="true">
+
+                        <com.google.android.material.textfield.TextInputEditText
+                            android:id="@+id/text_input_edittext_email"
+                            android:layout_width="match_parent"
+                            android:layout_height="60dp"
+                            android:hint="Email"
+                            android:text="@={viewmodel.email}"
+                            android:inputType="text"
+                            android:textAppearance="@android:style/TextAppearance.Medium"
+                            android:textColor="@color/textinput_text_color" />
+
+
+                    </com.google.android.material.textfield.TextInputLayout>
+
+                    <androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal" >
+
+                        <androidx.appcompat.widget.AppCompatButton
+
+                            android:layout_weight="1"
+                            android:layout_width="0dp"
+                            android:background="@drawable/rounded_button"
+                            android:onClick="@{() -> viewmodel.onCancelClick()}"
+                            android:layout_marginEnd="4dp"
+                            android:layout_height="wrap_content"
+                            android:text="Cancel"
+                            android:textColor="@color/white"
+                            />
+                        <androidx.appcompat.widget.AppCompatButton
+                            android:layout_weight="1"
+                            android:layout_width="0dp"
+                            android:background="@drawable/rounded_button"
+                            android:onClick="@{() -> viewmodel.onSendEmailLink()}"
+                            android:layout_height="wrap_content"
+                            android:text="Submit"
+                            android:textColor="@color/white"/>
+
+                    </androidx.appcompat.widget.LinearLayoutCompat>
+                </androidx.appcompat.widget.LinearLayoutCompat>
+
+
+            </androidx.cardview.widget.CardView>
+        </androidx.appcompat.widget.LinearLayoutCompat>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</layout>

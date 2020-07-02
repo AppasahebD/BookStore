@@ -1,0 +1,217 @@
+<resources>
+    <string name="application_name" translatable="false">Sharekhan DIY</string>
+    <string name="provider_name" translatable="false">com.sharekhan.diy.provider</string>
+
+    <string name="crash_error" translatable="false">Unexpected Error</string>
+
+    <string name="app_fullname" translatable="false">Sharekhan DIY Account Opening</string>
+    <string name="settings_about_app" translatable="false">App</string>
+    <string name="settings_about" translatable="false">About</string>
+    <string name="app_version" translatable="false">version="0.1.0"</string>
+    <string name="settings_about_version" translatable="false">Version</string>
+    <string name="settings_about_server" translatable="false">Server</string>
+    <string name="settings_about_company" translatable="false">Company</string>
+    <string name="settings_about_company_summary" translatable="false">Sharekhan Limited</string>
+
+    <string name="login" translatable="false">Login</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+
+    <string name="alert_username" translatable="false">Enter username.</string>
+    <string name="alert_password" translatable="false">Enter password.</string>
+    <string name="alert_offline" translatable="false">You are not connected to Internet</string>
+    <string name="alert_offline_title" translatable="false">Internet unavailable</string>
+    <string name="alert_invalid_credentials" translatable="false">Invalid Username/Password</string>
+    <string name="alert_server_error" translatable="false">Some error occurred.</string>
+
+    <string name="storage_name" translatable="false">sharekhan_diy_temp</string>
+    <string name="failure_compression_msg" translatable="false">Failed to compress video.</string>
+
+    <string name="sign_up" translatable="false">Sign Up</string>
+
+    <string name="hint_mobile" translatable="false">Mobile</string>
+
+    <string name="hint_name" translatable="false">Name (as per PAN)</string>
+    <string name="hint_email" translatable="false">Email</string>
+    <string name="hint_city" translatable="false">City</string>
+    <string name="action_search" translatable="false">Search</string>
+
+    <string name="name_action_done" translatable="false">Done</string>
+    <string name="take_picture" translatable="false">Take Picture</string>
+
+
+    <string name="esign" translatable="false">eSign</string>
+
+
+    <string name="present_address" translatable="false">present address</string>
+
+    <string name="permanent_address" translatable="false">permanent address</string>
+    <string name="msg_upload_pan_card" translatable="false">Upload PAN Card</string>
+    <string name="other_relation_name" translatable="false">Please specify relation</string>
+    <string name="submit" translatable="false">Submit</string>
+    <string name="lang_name_alert" translatable="false">Enter name before save</string>
+    <string name="client_address" translatable="false">Sharekhan Ltd 10th Floor, Beta Building, Lodha I Think Techno Campus, Kanjurmarg East, Mumbai - 400042, Off Jvrl, Opposite Kanjurmarg</string>
+
+    <string name="upload_pan_card" translatable="false">Upload PAN Card</string>
+    <string name="upload_cheque_leaf" translatable="false">Upload Cheque Leaf</string>
+    <string name="enter_manually" translatable="false">Enter manually</string>
+    <string name="add_bank" translatable="false">Add Bank Details</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--<string name="submitedon_obser">Submitted On:</string>
+    <string name="status">Status</string>-->
+
+    <!--    UAO-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lang_basicInfo_name_hint"><b>Clark Kent</b></string>
+    <string name="lang_pannm_hint"><b>10-digit PAN Number</b></string>
+    <string name="lang_dob_hint"><b>DD | MM | YYYY</b></string>
+    <string name="lang_ifsc_hint"><b>Enter IFSC</b></string>
+    <string name="lang_other_name_hint"><b>Enter the name you are known as</b></string>
+    <string name="lang_ifsc_enter_hint"><b>Enter IFSC code</b></string>
+    <string name="lang_bank_acnt_numb"><b>Bank Account Number</b></string>
+    <string name="lang_verification_code_hint"><b>X-X-X-X-X-X</b></string>
+    <string name="lang_basicInfo_referal_hint"><b>TIGR10</b></string>
+    <string name="lang_pan_details">PAN and Bank Details</string>
+
+    <!--    Pan and Bank Details-->
+
+    <string name="lang_pan_number">PAN Number</string>
+    <string name="lang_any_other_name">Are you known by any other name ?</string>
+    <string name="ifsc">IFSC</string>
+    <string name="lang_rem_ifsc">Remember IFSC code?  </string>
+    <string name="lang_entr_dir">Enter directly</string>
+    <string name="lang_acnt_num">Account Number</string>
+    <string name="lang_reacnt_num">Re-enter Account Number</string>
+    <string name="lang_i_agr">I agree to the  </string>
+    <string name="lang_trm_use">Terms of use</string>
+    <string name="lang_trading_exp_title">Trading Experience</string>
+
+
+    <!--    Other Info -->
+    <string name="occupation_title">Occupation</string>
+    <string name="lang_design_title">Designation</string>
+    <string name="lang_gender_title">Gender</string>
+    <string name="lang_martial_title">Martial Status</string>
+    <string name="lang_ubo_title">UBO Status</string>
+    <string name="lang_whatthis">What is this ?</string>
+    <string name="lang_annualinc_title">Annual Income</string>
+    <string name="lang_proposedinv_title">Proposed Investment with Sharekhan</string>
+    <string name="lang_inc_src_title">Source of income</string>
+    <string name="lang_place_birth_title">Place of birth</string>
+    <string name="lang_birth_plc_title">Place of Birth</string>
+    <string name="lang_othr_info">Other Information</string>
+    <string name="lang_personal_dtl">Personal Details</string>
+    <string name="lang_experiance_occ">Experience and Occupation</string>
+    <string name="lang_pan_bullet">\u2022 PAN Card</string>
+
+    <!--    Doc list -->
+    <string name="lang_incprf_bullet">\u2022 Income proof</string>
+    <string name="lang_addrsprf_bullet">\u2022 Address proof</string>
+    <string name="lang_bank_bullet">\u2022 Bank A/C Statement</string>
+    <string name="doc_msg">Please keep copies of the following document handy. You will need to upload them in the next step</string>
+    <string name="lang_pan">PAN Card</string>
+
+
+    <!--    Upload Document-->
+    <string name="lang_incprf">Income proof</string>
+    <string name="lang_addrsprf">Address proof</string>
+    <string name="lang_bank">Bank proof</string>
+    <string name="lang_profile">Profile Picture</string>
+    <string name="lang_trading_msg">Open trading cum demat account &amp; start trading in 15 minutes</string>
+
+
+    <!--    Registration-->
+    <string name="lang_brokerage_fee">Get 70%% Saving on brokerage fees</string>
+    <string name="lang_reg_title">For your unique needs.</string>
+    <string name="lang_reg_min">15 Mins</string>
+    <string name="lang_reg_saving">70%% Savings</string>
+    <string name="lang_reg_free_trade_acnt">Open a free book purchase account now!</string>
+    <string name="lang_ref_cod">Referral Code</string>
+    <string name="lang_name">Name</string>
+
+
+    <string name="email">Email ID</string>
+    <string name="lang_mob_no">Mobile Number</string>
+    <string name="city">City</string>
+    <string name="lang_dob">Birth Date</string>
+    <string name="lang_save_continue">SAVE AND CONTINUE</string>
+    <string name="start">START</string>
+    <string name="lang_seach_ifsc">Search IFSC Code?</string>
+
+    <string name="lang_pan_skip">Skip</string>
+    <string name="lang_bank_title">Bank</string>
+    <string name="lang_branch_title">Branch</string>
+    <string name="lang_ifsc_code">IFSC Code</string>
+    <string name="lang_select">SELECT</string>
+    <string name="valid_city" translatable="false">Please select valid city</string>
+
+    <string name="tc8" translatable="false">My Tax Residency Status is None other than India</string>
+
+    <string name="tc7" translatable="false">I am not Politically Exposed person(PEP) /Relative of PEP</string>
+    <string name="tc6" translatable="false">I understand that Sharekhan does not offer services to buy or sell any securities or financial instruments in the USA and Canada</string>
+    <string name="tc5" translatable="false">I am not a USA/Canada Citizen/person</string>
+    <string name="tc4" translatable="false">I authorize SKL to fetch my data from KRA/CKYCR/ NSDL e-Gov for trading &amp; DP account activation with Sharekhan.</string>
+    <string name="tc3" translatable="false">I understand that the online account opening procedure is applicable only to a single holder.</string>
+    <string name="tc2" translatable="false">I confirm and declare that I am a citizen of India and my country of birth is India.</string>
+    <string name="tc1" translatable="false">I hereby declare that the details provided by me are true and correct.</string>
+    <string name="resent_sms" translatable="false">OTP resend to you via SMS</string>
+    <string name="input_alphabets" translatable="false">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+    <!-- Input Types -->
+    <string name="input_alphabets_no_space" translatable="false">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="input_alphanumeric" translatable="false">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890</string>
+    <string name="input_alphanumeric_no_space" translatable="false">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890</string>
+    <string name="input_alphanumeric_with_special_char" translatable="false">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890.@*,%$+/=()?#-_&amp;\'</string>
+    <string name="input_alphanumeric_with_special_char1" translatable="false">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890/-</string>
+    <string name="input_alphanumeric_with_special_char2" translatable="false">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890-&amp;</string>
+    <string name="input_alphanumeric_caps" translatable="false">ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890</string>
+    <string name="flatnumber_error" translatable="false">Please enter flat number</string>
+
+    <string name="areaname_error" translatable="false">Please enter area name</string>
+    <string name="city_error" translatable="false">Please enter city</string>
+    <string name="permanent_error" translatable="false">Please upload permanent address proof</string>
+    <string name="correspondance_error" translatable="false">Please upload correspondance address proof</string>
+    <string name="uao_blank" translatable="false"> </string>
+
+    <string name="pan_image" translatable="false">Pan image</string>
+    <string name="income_proof" translatable="false">Income proof</string>
+    <string name="profile_pic" translatable="false">IPV</string>
+    <string name="poa_image" translatable="false">Poa image</string>
+    <string name="bank_image" translatable="false">Bank image</string>
+    <string name="profile_image" translatable="false">Profile picture</string>
+    <string name="address_image" translatable="false">Address image</string>
+    <string name="menu_action_help" translatable="false">Help</string>
+    <string name="select_proposed_invest" translatable="false">Select Proposed Investment with Sharekhan</string>
+    <string name="select_annual_income" translatable="false">Select Annual Income</string>
+    <string name="select_education" translatable="false">Select Education</string>
+    <string name="select_designation" translatable="false">Select Designation</string>
+    <string name="select_occupation" translatable="false">Select Occupation</string>
+    <string name="select_trading" translatable="false">Select Trading Experience</string>
+    <string name="select_marital" translatable="false">Select Marital status</string>
+    <string name="character_digits" translatable="false">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="app_name" translatable="false">Book Store</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="menu_home" translatable="false">Home</string>
+
+    <string name="menu_gallery" translatable="false">Gallery</string>
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+    <string name="menu_tools" translatable="false">Tools</string>
+    <string name="menu_share" translatable="false">Share</string>
+    <string name="menu_logout" translatable="false">LogOut</string>
+    <string-array name="doc_list">
+        <item>\u2022 Pan Card</item>
+        <item>\u2022 Income Proof</item>
+        <item>\u2022 Personalised Cheque Leaf</item>
+    </string-array>
+
+
+</resources>

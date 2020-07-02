@@ -1,0 +1,96 @@
+<layout>
+    <data>
+        <variable
+            name="register"
+            type="com.example.bookstore.viewmodel.RegisterVM" />
+    </data>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/layout_address"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/AppTheme.TextInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/fifteen_dp"
+            app:hintEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/lang_line_1"
+                android:inputType="textPostalAddress"
+                android:maxLength="50"
+                android:textColor="@color/textinput_text_color"
+                android:textStyle="bold" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/AppTheme.TextInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/fifteen_dp"
+            app:hintEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/lang_line_2"
+                android:inputType="textPostalAddress"
+                android:maxLength="50"
+                android:textColor="@color/textinput_text_color"
+                android:textStyle="bold" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/AppTheme.TextInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/fifteen_dp"
+            app:hintEnabled="true">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/lang_pin_hint"
+                android:inputType="number"
+                android:maxLength="6"
+                android:textColor="@color/textinput_text_color"
+                android:textStyle="bold" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/text_input_password"
+            style="@style/AppTheme.TextInputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:hintEnabled="true"
+            android:layout_marginBottom="@dimen/fifteen_dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/text_input_edittext_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/password"
+                android:text="@={register.password}"
+                android:inputType="textPassword"
+                android:textColor="@color/textinput_text_color"
+                android:textStyle="bold" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+</layout>

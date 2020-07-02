@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uao_colorPrimary">#FF5F39</color>
+    <color name="uao_colorPrimaryLight">#ff8a50</color>
+    <color name="uao_colorPrimaryDark">#E64A19</color>
+    <color name="uao_colorAccent">#78909c</color>
+    <color name="uao_colorAccentLight">#a7c0cd</color>
+    <color name="uao_colorBackground">#ffffff</color>
+
+    <color name="uao_primaryTextColor">#212121</color>
+    <color name="uao_secondaryTextColor">#757575</color>
+    <color name="uao_scrim_color">#52000000</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#e9e8f2</color>
+    <color name="dot_dark_screen2">#e9e8f2</color>
+    <color name="dot_dark_screen3">#e9e8f2</color>
+    <color name="dot_dark_screen4">#e9e8f2</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#ed1b2f</color>
+    <color name="dot_light_screen2">#ed1b2f</color>
+    <color name="dot_light_screen3">#ed1b2f</color>
+    <color name="dot_light_screen4">#ed1b2f</color>
+    <color name="hint_text_color">#001427</color>
+    <color name="edit_text_color">#001427</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen1</item>
+        <item>@color/dot_light_screen2</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen4</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <color name="gray_redish">#f5eded</color>
+
+    <!--    UAO-->
+    <color name="uao_header_clr">#F4F4F4</color>
+    <color name="uao_banner_gray">#F5F5F5</color>
+    <color name="uao_title">#080808</color>
+    <color name="uao_edit_border">#B1B1B1</color>
+    <color name="uao_tab_bg">#E8E8E8</color>
+    <color name="uao_green">#36C189</color>
+    <color name="uao_textinput_title">#464646</color>
+    <color name="uao_layout_bg">#EDEBEB</color>
+    <color name="uao_toolbar">#FF5F39</color>
+    <color name="uao_edit_bg">#E8E8E8</color>
+    <color name="uao_edit_hint_color">#B1B1B1</color>
+    <color name="uao_edit_text_color">#464646</color>
+    <color name="uao_lit_orng">#FFA495</color>
+    <color name="uao_gray_lit">#606060</color>
+    <color name="uao_upload_text_gray">#4A4A4A</color>
+    <color name="uao_lit_black">#484848</color>
+    <color name="uao_upload_text_red">#EF2539</color>
+    <color name="uao_instruction_color_bg">#ECEAEA</color>
+    <color name="uao_record_button">#FF414F</color>
+    <color name="uao_dark_green">#39A87B</color>
+    <color name="uao_status_green">#36C189</color>
+    <color name="uao_status_gray">#E8E8E8</color>
+    <color name="uao_text_gray">#383838</color>
+    <color name="uao_objection_bg">#f7d4d4</color>
+    <color name="uao_gray">#808080</color>
+    <color name="uao_light_gray">#DBDBDB</color>
+
+
+
+    <color name="uao_product_unselected_top">#FAFAFA</color>
+    <color name="uao_product_unselected_bottom">#F7F7F7</color>
+
+</resources>

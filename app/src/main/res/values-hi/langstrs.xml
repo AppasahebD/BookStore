@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lang_login">लॉगिन करें</string>
+    <string name="lang_password">पासवर्ड</string>
+    <string name="lang_launcher_text">खाता खोलना इतना आसान कभी नहीं था!</string>
+    <string name="lang_nav_notification">सूचनाएं</string>
+    <string name="lang_nav_logout">लोग आउट</string>
+    <string name="lang_tenure">कार्यकाल</string>
+    <string name="lang_submit">सबमिट</string>
+    <string name="lang_login_subtitle">लॉगिन करें</string>
+
+    <string name="lang_ref1">संदर्भ 1</string>
+    <string name="lang_ref2">संदर्भ 2</string>
+
+    <string name="lang_address_line_1">फ्लैट संख्या</string>
+    <string name="lang_address_line_2">इमारत का नाम</string>
+    <string name="lang_address_line_3">क्षेत्र का नाम</string>
+    <string name="lang_postal_code">पिन कोड</string>
+    <string name="lang_city">शहर / कस्बे</string>
+    <string name="lang_employer_name">एम्प्लोयर का नाम</string>
+    <string name="lang_establishment_type">व्यवसाय</string>
+    <string name="lang_bank_name"> बैंक का नाम</string>
+    <string name="lang_bank_branch">बैंक शाखा</string>
+    <string name="lang_IFSC_code">IFSC कोड</string>
+    <string name="lang_micr">MICR</string>
+    <string name="lang_account_number">खाता संख्या</string>
+
+    <string name="lang_relation">संबंध चुनें</string>
+
+    <string name="lang_get_loan">ऋण प्राप्त करें</string>
+
+    <string name="lang_provide_aadhar_card_title">अपना आधार कार्ड प्रदान करें</string>
+    <string name="lang_aadhar_card_sub_title">आप QR कोड स्कैन कर सकते हैं / एक फोटो क्लिक कर सकते हैं / अपना आधार संलग्न करें</string>
+    <string name="lang_scan_qr_code">आधार क्यूआर कोड को स्कैन करें</string>
+    <string name="lang_upload_aadhar">आधार कार्ड अपलोड करें</string>
+
+    <string name="lang_personal_detail_title">जाँच करें कि क्या विवरण ठीक हैं</string>
+    <string name="lang_personal_detail_subtitle">विवरण स्वतः प्राप्त किए गए हैं, कृपया आगे बढ़ने से पहले जांच लें</string>
+    <string name="lang_full_name">पूरा नाम (अपने आधार कार्ड के रूप में)</string>
+    <string name="lang_date_of_birth">जन्म की तारीख</string>
+    <string name="lang_gender">लिंग</string>
+    <string name="lang_next">आगामी</string>
+
+    <string name="lang_not_receive_otp">कोड प्राप्त नहीं हुआ?ं </string>
+    <string name="lang_resend"> पुन: भेजें</string>
+    <string name="lang_verify">अभी सत्यापित करें</string>
+    <string name="lang_state">राज्य</string>
+    <string name="lang_residential_status">आवासीय स्थिति</string>
+    <string name="lang_owned">स्वामित्व</string>
+    <string name="lang_rented">किराए पर लिया</string>
+    <string name="lang_as_aadhar">आधार के समान ही</string>
+    <string name="lang_permanent_res_add">स्थायी निवासिक पता</string>
+    <string name="lang_present_res_add">वर्तमान निवास का पता</string>
+    <string name="lang_address_subtitle">अपने पते दें </string>
+    <string name="lang_address_title">महान! कुछ और सवाल</string>
+    <string name="lang_terms_and_condition">नियम और amp; शर्तें लागू*</string>
+    <string name="lang_loan_list_title">ऋण प्रकार</string>
+    <string name="lang_loan_detail_title1">अपनी </string>
+    <string name="lang_loan_detail_title2"> की राशि सेट करें</string>
+    <string name="lang_proceed">आगे बढ़ें</string>
+    <string name="lang_go">हाँ! चलिए चलते हैं!</string>
+    <string name="lang_proposed_invest">शेयरखान के साथ प्रस्तावित निवेश</string>
+    <string name="lang_work_exp">ट्रेडिंग अनुभव के वर्षों की संख्या</string>
+    <string name="lang_work_desig">पद</string>
+    <string name="lang_UBO_list_comp">मैं किसी सूचीबद्ध कंपनी का यूबीओ नहीं हूं</string>
+    <string name="lang_SMO_any_comp">मैं किसी कंपनी का एसएमओ नहीं हूं</string>
+
+    <string name="lang_source_wealth">धन के स्रोत</string>
+    <string name="lang_nature_business">व्यवसाय की प्रकृति</string>
+    <string name="lang_birth_place">जन्म स्थान</string>
+
+    <string name="lang_annual_income">वार्षिक आय</string>
+
+    <string name="lang_register_title">अपना डीमैट और ट्रेडिंग खाता खोलेंें</string>
+    <string name="lang_register_subtitle">चलिए रजिस्टर करते हैं</string>
+    <string name="lang_email">ईमेल</string>
+    <string name="lang_mobile">मोबाइल</string>
+    <string name="lang_register_name">पूरा नाम (पैन कार्ड के अनुसार)</string>
+    <string name="lang_by_proceding">मैं इसके लिए सहमत हूँ</string>
+    <string name="lang_terms_cond">नियम और शर्तें</string>
+    <string name="lang_register">रजिस्टर करें</string>
+
+    <string name="lang_lets_start">चलो शुरू करो</string>
+
+    <string name="lang_registered_successfully">तुम हो पंजीकरण सफलतापूर्वक हो गया है!</string>
+    <string name="lang_one_step_closer">आप अपना खाता खोलने के करीब एक कदम हैं! अपने विवरण भरने के साथ शुरू करते हैं।</string>
+
+    <string name="lang_verify_email">अपनी ईमेल आईडी सत्यापित करें</string>
+    <string name="lang_look_out_mail">सत्यापन के लिए बाहर देखो</string>
+    <string name="lang_rs">₹</string>
+
+    <string name="lang_intro_screen_one_title">अपना डीमैट और ट्रेडिंग खाता खोलें</string>
+    <string name="lang_intro_screen_one_subtitle">अपना विवरण प्रदान करें और उन उत्पादों को चुनें जिन्हें आप निवेश करना चाहते हैं</string>
+
+    <string name="lang_intro_screen_two_title">प्रकेवल एक बार अपना विवरण प्रदान करेंं</string>
+    <string name="lang_intro_screen_two_subtitle">अपने विवरणों को मैन्युअल रूप से दर्ज करने में परेशानी को कई बार भूल जाओ, बस एक बार दर्ज करें और हम बाकी काम करेंगें</string>
+
+    <string name="lang_intro_screen_three_title">ऋण के लिए आवेदन करेंं</string>
+    <string name="lang_intro_screen_three_subtitle">दस्तावेजों को डिजिटल रूप से सत्यापित करें और त्वरित पूर्व अनुमोदन प्राप्त करें।</string>
+
+    <string name="lang_choose_your_language">अपनी भाषा चुनें</string>
+    <string name="lang_query_title">क्या कोई सवाल है?</string>
+    <string name="lang_query_subtitle">आप यहां से सहायता प्राप्त कर सकते हैं</string>
+    <string name="lang_bank_detail_title">बैंक विवरण की पुष्टि करें</string>
+    <string name="lang_bank_detail_subtitle">कृपया सुनिश्चित करें कि नीचे दिए गए बैंक विवरण सही हैं</string>
+    <string name="lang_holder_name">खाताधारक का नाम</string>
+    <string name="lang_bank_verity_acc">बैंक विवरण सत्यापित करने के लिए रुपये को आपके खाते में जमा किया जाएगा</string>
+    <string name="lang_attachment_title">कृपया नीचे उल्लेखित दस्तावेज़ प्रदान करें</string>
+    <string name="lang_attachment_subtitle">आप फोटो क्लिक कर सकते हैं या इन दस्तावेजों को संलग्न कर सकते हैं</string>
+    <string name="lang_confirm">पुष्टि करें</string>
+    <string name="lang_reference_title">2 भरोसेमंद संदर्भ दें</string>
+    <string name="lang_reference_subtitle">कृपया एक संदर्भ के रूप में एक व्यावसायिक संपर्क करें यह इसलिए है क्योंकि हम उन्हें आपकी अनुपस्थिति में संपर्क कर सकते हैं संदर्भ। यह इसलिए है क्योंकि हम आपकी अनुपस्थिति में उनसे संपर्क कर सकते हैं उन्हें आपकी अनुपस्थिति में</string>
+    <string name="lang_done">किया हुआ</string>
+    <string name="lang_skip"><u>छोड़ें</u></string>
+
+    <string name="lang_processing_documents">प्रसंस्करण दस्तावेज़</string>
+    <string name="lang_processing_documents_subtitle">हम कड़ी मेहनत कर रहे हैं! आपके दस्तावेज़ हैं मान्य हो रहा है। हम आपसे फिर बात करेंगे शीघ्र ही।</string>
+    <string name="lang_eligibility_check">पात्रता की जाँच</string>
+    <string name="lang_loan_aproval">ऋण स्वीकृति</string>
+
+    <string name="lang_upload_bank_statement">बैंक स्टेटमेंट अपलोड करें</string>
+    <string name="lang_upload_statement_pdf_form">कृपया पीडीएफ (पसंदीदा) अपलोड करें या बैंक स्टेटमेंट की स्पष्ट तस्वीर लें आपके मुख्य बैंक खाते की</string>
+    <string name="lang_provide_pdf_pwd">यदि कोई हो तो पीडीएफ पासवर्ड प्रदान करें</string>
+    <string name="lang_dont_worry">चिंता मत करो! आपका बैंक स्टेटमेंट और पासवर्ड हमारे पास सुरक्षित है।</string>
+
+    <string name="lang_choose_statement_type">आप बैंक स्टेटमेंट को पीडीएफ या तस्वीरों पर क्लिक करके अपलोड कर सकते हैं।</string>
+    <string name="lang_upload">विवरण अपलोड करें</string>
+    <string name="lang_bank_statement">बैंक कथन</string>
+    <string name="lang_upload_one_year_bank_statement">अपना 6 महीने का बैंक अपलोड करने के लिए यहां टैप करें अपने फोन के माध्यम से क़ानून।</string>
+
+    <string name="lang_loan_agreement">ऋण समझौता</string>
+    <string name="lang_loan_agreement_sub_title">Lorem Ipsum प्रिंटिंग और टाइपसेटिंग उद्योग के बस डमी पाठ है। Lorem Ipsum 1500 के दशक के बाद से उद्योग के मानक डमी पाठ रहा है, जब एक अज्ञात प्रिंटर ने एक प्रकार की गैले ली और इसे एक प्रकार की नमूना किताब बनाने के लिए स्कैम्बल किया। यह न केवल पांच शताब्दियों तक जीवित रहा है, बल्कि इलेक्ट्रॉनिक टाइपसेटिंग में भी छलांग है, जो अनिवार्य रूप से अपरिवर्तित बनी हुई है।</string>
+    <string name="lang_terms_cond_of_loan">ऋण की शर्तें</string>
+    <string name="lang_tems_cond_line_one">केवल अगर आप नियम और शर्तों से सहमत हैं, तो केवल इस ऋण के साथ आगे बढ़ें।</string>
+    <string name="lang_tems_cond_line_two">ऋण की मुख्य शर्तें हैं
+1. ऋण राशि: INR 1,50,000
+2. कार्यकाल: 36 महीने
+3. ईएमआई: INR 12,566 / माह</string>
+    <string name="lang_your_info">आपकी जानकारी</string>
+    <string name="lang_info_description">Lorem Ipsum प्रिंटिंग और टाइपसेटिंग उद्योग के बस डमी पाठ है। Lorem Ipsum 1500 के दशक के बाद से उद्योग के मानक डमी पाठ रहा है, जब एक अज्ञात प्रिंटर ने एक प्रकार की गैले ली और इसे एक प्रकार की नमूना किताब बनाने के लिए स्कैम्बल किया। यह न केवल पांच शताब्दियों तक जीवित रहा है, बल्कि इलेक्ट्रॉनिक टाइपसेटिंग में भी छलांग है, जो अनिवार्य रूप से अपरिवर्तित बनी हुई है।</string>
+    <string name="lang_read_carefully">दस्तावेजों को ध्यान से पढ़ें। आप एक बार
+ई-साइन, आप कुछ भी बदलने में सक्षम नहीं होंगे।</string>
+    <string name="lang_later">बाद में</string>
+    <string name="lang_verify_e_sign">ई-साइन सत्यापित करें</string>
+    <string name="lang_company_name">कंपनी का नाम</string>
+
+    <string name="lang_business_loan_type">Type of Business Loan</string>
+    <string name="lang_gst_number">जीएसटी नंबर (वैकल्पिक)</string>
+    <string name="lang_drop_pin"><u>मानचित्र पर ड्रॉप पिन</u></string>
+    <string name="lang_gps_title"> वर्तमान पते का जीपीएस स्थान</string>
+    <string name="lang_find_bank">अपना बैंक खोजें</string>
+    <string name="lang_search_bank">"आपका बैंक नहीं मिल रहा है?</string>
+    <string name="lang_net_signup">चचिंता मत करो! हम आपकी पीठ हैं।</string>
+    <string name="lang_cust_id">ग्राहक आईडी</string>
+    <string name="lang_norton_security">हम नॉर्टन सुरक्षा द्वारा प्रमाणित हैं</string>
+
+    <string name="lang_co_applicant_screen_title">संयुक्त धारक का विवरण</string>
+    <string name="lang_co_applicant_screen_sub_title">कृपया नीचे विवरण प्रदान करें</string>
+    <string name="lang_co_applicant_pan_no">संयुक्त धारक पैन नंबर</string>
+    <string name="lang_co_applicant_aadhar_no">संयुक्त धारक आधार संख्या</string>
+    <string name="lang_co_applicant_name">संयुक्त धारक का पूरा नाम (आधार के अनुसार)</string>
+    <string name="lang_co_applicant_relation">आवेदक के साथ संबंध</string>
+    <string name="lang_co_applicant_email">ईमेल</string>
+    <string name="lang_co_applicant_mobile">मोबाइल</string>
+    <string name="lang_residential_address">घर का पता</string>
+    <string name="lang_add_co_applicant">संयुक्त धारक जोड़ेंं</string>
+
+    <string name="lang_alert_server_error">कुछ त्रुटि हुई।</string>
+    <string name="lang_pan_no">पैन नंबर</string>
+    <string name="lang_adhar_no">आधार संख्या</string>
+
+    <string name="lang_as_above">ऊपर की तरह</string>
+
+    <string name="lang_year">साल</string>
+
+    <string name="lang_scan">स्कैन करें</string>
+    <string name="lang_aadhar_front_title">इस बॉक्स के अंदर अपने आधार कार्ड को रखें और शार्प फोटो पर क्लिक करें</string>
+    <string name="lang_aadhar_back_title">इस बॉक्स के अंदर अपने आधार कार्ड को वापस रखें और शार्प फोटो पर क्लिक करें</string>
+    <string name="lang_account_safe_title">आपका खाता सुरक्षित है</string>
+    <string name="lang_account_safe_desc">हम आपके बैंक तक पहुंचने के लिए अधिकृत हैं केवल बयान। आपकी सभी अन्य जानकारी और बैंक कार्य अछूते नहीं हैं।</string>
+    <string name="lang_enter_password">पास वर्ड दर्ज करें</string>
+    <string name="lang_ok">OK</string>
+    <string name="lang_not_user">New user?</string>
+    <string name="lang_already_user">पहले से पंजीकृत?</string>
+    <string name="lang_alert_not_registered_user">आप पंजीकृत नहीं हैं</string>
+    <string name="lang_view"><u>राय</u></string>
+    <string name="lang_cust_dashboard_title">मेरा खाता खोलने की स्थिति</string>
+    <string name="lang_upload_successful">सफलतापूर्वक अपलोड हो गया!</string>
+    <string name="lang_pan_upload_successfully">पैन कार्ड सफलतापूर्वक अपलोड किया गया है</string>
+    <string name="lang_aadhar_upload_successfully">आधार कार्ड सफलतापूर्वक अपलोड किया गया है</string>
+    <string name="lang_delete"><u>हटाएं</u></string>
+    <string name="lang_bank_statement_upload_successfully">बैंक विवरण अपलोड किए गए सफलतापूर्वक</string>
+    <string name="lang_cant_find_company">आपकी कंपनी नहीं मिल रही है?</string>
+    <string name="lang_change">परिवर्तन</string>
+    <string name="lang_date_of_incorporation">निगमन की तारीख</string>
+    <string name="lang_file_error">फ़ाइल का चयन करते समय त्रुटि हुई</string>
+    <string name="lang_active_loan">सक्रिय ऋण</string>
+    <string name="lang_ongoing_loan">पर-ऋण आवेदन जा रहा है</string>
+    <string name="lang_draft">प्रारूप</string>
+    <string name="lang_approved">मंजूर की</string>
+    <string name="lang_disbursed">संवितरित</string>
+    <string name="lang_rejected">अस्वीकृत</string>
+    <string name="lang_menu">मेन्यू</string>
+    <string name="lang_get_in_touch">संपर्क में रहो</string>
+    <string name="lang_change_lang">भाषा बदलो</string>
+    <string name="lang_nav_other">अन्य</string>
+    <string name="lang_lakhs">लाख</string>
+    <string name="lang_month_tenure">महीने का कार्यकाल</string>
+    <string name="lang_loan_amount">ऋण राशि</string>
+    <string name="lang_emi_estimated">ईएमआई (अनुमानित)</string>
+    <string name="lang_adjust_tenure">* वांछित ईएमआई प्राप्त करने के लिए कार्यकाल समायोजित करें</string>
+    <string name="lang_doc_conf_title">सुनिश्चित करें कि आपके पास ये सभी दस्तावेज हैं हमारे अगले चरणों के लिए काम</string>
+    <string name="lang_doc_conf_subtitle">यह त्वरित प्रक्रिया होगी</string>
+    <string name="lang_months">महीने</string>
+    <string name="lang_loan_ready">खाता लगभग तैयार है</string>
+    <string name="lang_loan_is_just">खाता सिर्फ</string>
+    <string name="lang_steps_away">कदम दूर है</string>
+    <string name="lang_stepper_subtitle">ऑनलाइन ट्रेडिंग खाता खोलें</string>
+    <string name="lang_pan_title">इस बॉक्स के अंदर अपने पैन कार्ड को रखें और शार्प फोटो पर क्लिक करें</string>
+    <string name="lang_upload_from_gallary">गैलरी से अपलोड करें</string>
+    <string name="lang_gallery">गैलरी</string>
+    <string name="lang_pdf">PDF</string>
+    <string name="lang_looks_good">अच्छा लग रहा है?</string>
+    <string name="lang_permanent_res_address">स्थायी आवासीय पता</string>
+    <string name="lang_confirm_location">स्थान की पुष्टि करें</string>
+    <string name="lang_profile_title">अब, एक प्रोफाइल चित्र लेते हैं</string>
+    <string name="lang_occupation_title">आय और व्यवसाय</string>
+    <string name="lang_occupation_subtitle">कृपया नीचे जानकारी प्रदान करें</string>
+    <string name="lang_search_bank_hint">अपना बैंक नाम दर्ज करें</string>
+    <string name="lang_secured_network">सुरक्षित नेटवर्क</string>
+    <string name="lang_salary_slip_desc">नवीनतम 3 महीने का वेतन पर्ची</string>
+    <string name="lang_Form16_desc">फॉर्म 16 (नवीनतम वर्ष)</string>
+    <string name="lang_other_income_proof_desc">अन्य आय प्रमाण या आवासीय पता प्रमाण जैसे - पंजीकृत किराया समझौता / पासपोर्ट / छुट्टी और लाइसेंस / उपयोगिता बिल (3 महीने पुराना)</string>
+    <string name="lang_business_registration_desc">GST पंजीकरण प्रमाणपत्र / udyad आधार / व्यवसाय प्रमाण</string>
+    <string name="lang_vintage_proof_desc">दुकान एक लाइसेंस जोड़ें</string>
+    <string name="lang_itr_desc">नवीनतम 2-वर्षीय ITIP वैन संगणना</string>
+    <string name="lang_profit_loss_desc">पीआरएल, बैलेंस शीट के साथ अनुसूची</string>
+    <string name="lang_other_documents_desc">अन्य आय प्रमाण या आवासीय पते के प्रमाण जैसे- पंजीकृत रेंट एग्रीमेंट / पासपोर्ट / लीव एंड लाइसेंस / यूटिलिटी बिल (3 महीने पुराना)</string>
+    <string name="lang_salary_slip">वेतन पर्ची</string>
+    <string name="lang_form_16">फॉर्म 16</string>
+    <string name="lang_other_doc">अन्य दस्तावेज</string>
+    <string name="lang_other_docs">अन्य दस्तावेज (वैकल्पिक)</string>
+    <string name="lang_edit">संपादित करें</string>
+    <string name="lang_you_need">आपको</string>
+    <string name="lang_more_sal_slip">और वेतन पर्ची अपलोड करने की आवश्यकता है</string>
+    <string name="lang_get_loan_title">महान! \n प्रक्रिया पूरी हो गई है</string>
+    <string name="lang_get_loan_des">हम आपकी फ़ाइल की समीक्षा कर रहे हैं, अच्छी तरह से कनेक्ट करें शीघ्र ही आपके साथ</string>
+    <string name="lang_company_details">संस्थान के विवरण</string>
+    <string name="lang_business_sub_title">हमें अपनी कंपनी के बारे में बताएं</string>
+    <string name="lang_company_pan">कंपनी पैन कार्ड अपलोड करें</string>
+    <string name="lang_co_applicant_list_title">संयुक्त धारक विवरण जोड़ें</string>
+    <string name="lang_co_applicant_list_sub_title">आप 2 संयुक्त धारकों को जोड़ सकते हैं</string>
+    <string name="lang_upload_pan">पैन कार्ड अपलोड करें</string>
+    <string name="lang_pancard_uploaded">पैन कार्ड अपलोड किया गया है</string>
+    <string name="lang_aadhaar_uploaded">आधार कार्ड अपलोड किया गया है</string>
+    <string name="lang_business_registration">व्यापार पंजीकरण आईडी</string>
+    <string name="lang_vintage_proof">बिजनेस विंटेज प्रूफ</string>
+    <string name="lang_itr">आईटीआर</string>
+    <string name="lang_profit_loss">लाभ और हानि पत्र</string>
+    <string name="lang_log_out_error">Not able to logout, please try again later.</string>
+    <string name="lang_alert_add_loan">अपना खाता खोलने के लिए + पर क्लिक करें</string>
+    <string name="lang_dashboard_title_complete">मेरे पिछले ऋण</string>
+    <string name="lang_dashboard_title_active">मेरे सक्रिय ऋण</string>
+    <string name="lang_dashboard_title_in_progress">प्रगति ऋण में</string>
+    <string name="lang_my_loan">मेरा खाता</string>
+    <string name="lang_month">महीना</string>
+    <string name="lang_aadhaar_alert">आपने अपने आधार कार्ड के एक पक्ष को सफलतापूर्वक संलग्न कर लिया है \nअब आपको दूसरा पक्ष संलग्न करना होगा।</string>
+    <string name="lang_alert_otp_error">कृपया मान्य OTP दर्ज करें</string>
+    <string name="lang_try_again">बाद में पुन: प्रयास करें</string>
+    <string name="lang_years">साल</string>
+    <string name="lang_upload_pdf">अपलोड</string>
+    <string name="lang_open_camera">कैमरा</string>
+    <string name="lang_cancel">रद्द करना</string>
+    <string name="lang_enter_otp_title1">कृपया भेजे गए ओटीपी को दर्ज करें</string>
+    <string name="lang_enter_otp_title2">मोबाइल नंबर</string>
+    <string name="lang_pdf_error">कृपया पीडीएफ फाइल का चयन करें</string>
+    <string name="lang_gps_title_company">कंपनी का जीपीएस स्थान</string>
+    <string name="lang_files_upload_successfully">फ़ाइलें सफलतापूर्वक अपलोड की गई हैं</string>
+    <string-array name="personal_doc_list">
+        <item>पैन कार्ड</item>
+        <item>आय प्रमाण</item>
+        <item>वैयक्तिकृत चेक लीफ</item>
+    </string-array>
+    <string-array name="business_doc_list">
+        <item>पैन नंबर (व्यक्तिगत व्यवसाय)</item>
+        <item>आधार कार्ड</item>
+        <item>बैंक कथन</item>
+        <item>GST पंजीकरण प्रमाणन / udyog Aadhaar / व्यवसाय प्रमाण</item>
+        <item>नवीनतम 2 वर्ष आई.टी.आर.</item>
+        <item>शेड्यूल के साथ बैलेंस शीट</item>
+        <item>शेड्यूल के साथ लाभ और हानि पत्रक</item>
+        <item>अन्य - specify</item>
+    </string-array>
+    <string-array name="array_business_stepper">
+        <item>पैन कार्ड अपलोड करें</item>
+        <item>आधार कार्ड अपलोड करें</item>
+        <item>अपनी व्यक्तिगत जानकारी दें</item>
+        <item>नौकरी में</item>
+        <item>बैंक स्टेटमेंट और बैंक विवरण</item>
+        <item>अन्य अनुलग्नक</item>
+        <item>संदर्भ जोड़ें</item>
+    </string-array>
+    <string-array name="array_personal_stepper">
+        <item>पहचान का सबूत</item>
+        <item>पते का सबूत</item>
+        <item>व्यक्तिगत जानकारी</item>
+        <item>बैंक का प्रमाण</item>
+        <item>उत्पादों का चयन करें</item>
+        <item>आय और व्यवसाय</item>
+        <item>सआईपीवी और हस्ताक्षर</item>
+        <item>संयुक्त खाता धारक</item>
+        <item>आवेदन की समीक्षा करें</item>
+    </string-array>
+
+    <string name="lang_about_us">के बारे में</string>
+    <string name="lang_try_again_camera">फ़्लैश सेट करने में विफल। कृपया कैमरा फिर से खोलें।</string>
+    <string name="lang_image_error">कृपया केवल छवि का चयन करें</string>
+    <string name="lang_address">पता</string>
+    <string name="lang_select_string">चुनते हैं</string>
+
+    <string name="lang_welcome">ShareKhan में आपका स्वागत है</string>
+    <string name="lang_doc_msg">कृपया निम्नलिखित दस्तावेजों की प्रतियां संभाल कर रखें। आपको उन्हें अगले चरण में अपलोड करना होगा।</string>
+    <string name="lang_terms">उपयोगकर्ता अस्वीकरण</string>
+    <string name="lang_verify_terms">आगे बढ़ने के लिए कृपया नीचे दिए गए बिंदुओं को सत्यापित करें</string>
+
+    <string name="lang_check_authorise_fetch_data">ममैं दलाल को KRA / CKYC / Aadhaar से अपना डेटा प्राप्त करने और खाता सक्रियण के लिए उपयोग करने के लिए अधिकृत करता हूं।</string>
+    <string name="lang_check_indian_citizen">मैं यूएसए / कनाडा का नागरिक नहीं हूं</string>
+    <string name="lang_check_taxt_residency_status">मेरा कर निवास का दर्जा केवल भारत है</string>
+    <string name="lang_check_not_pep">मैं PEP / PEP से संबंधित नहीं हूं</string>
+    <string name="lang_check_adult">मेरी उम्र 18+ साल है</string>
+    <string name="lang_check_fatca">FATCA</string>
+    <string name="lang_check_individual">मैं व्यक्ति हूं और कंपनी नहीं हूं</string>
+    <string name="lang_accept_all_terms">कृपया सभी शर्तों को स्वीकार करें</string>
+
+    <string name="lang_cheque_title">इस बॉक्स के अंदर अपने चेक के सामने रखें और एक तीव्र तस्वीर पर क्लिक करें</string>
+
+    <string name="lang_choose_products_title">उत्पाद चुनें</string>
+    <string name="lang_choose_products_subtitle">कृपया उन उत्पादों पर टिक करें जिन्हें आप निवेश करना चाहते हैं।</string>
+
+    <string name="lang_consent_product">मैंने यहाँ नियमों और शर्तों को पढ़ा, समझा और उनसे सहमत हूँ।</string>
+    <string name="lang_ipv_guide_title">व्यक्ति सत्यापन (आईपीवी) में</string>
+    <string name="lang_ipv_guide_subtitle">SEBI के दिशानिर्देशों के अनुसार अनिवार्य।</string>
+    <string name="lang_record_video">वीडियो रिकॉर्ड करो</string>
+    <string name="lang_record_video_guide">एक वीडियो रिकॉर्ड करें जिसमें आपको ओटीपी प्राप्त हुआ है</string>
+    <string name="lang_ipv_otp_sent">आपके मोबाइल नंबर XXXXXXX%1$s पर OTP भेजा गया</string>
+
+    <string name="lang_signature_title">एक रिक्त श्वेत पत्र पर साइन इन करें और तस्वीर अपलोड करें / क्लिक करें।</string>
+    <string name="lang_download_documents">दस्तावेज़ डाउनलोड करें</string>
+    <string name="lang_step1">चरण 1</string>
+    <string name="lang_step2">चरण 2</string>
+    <string name="lang_back">वापस</string>
+    <string name="lang_download_guide">दस्तावेज़ डाउनलोड करें, हस्ताक्षर करें और हमें भेजें</string>
+    <string name="lang_download_guide2">हस्ताक्षर करें और दस्तावेजों को नीचे दिए गए पते पर भेजें</string>
+    <string name="lang_or">या</string>
+    <string name="lang_mobile_not_aadhaar_linked">&lt;u>मोबाइल को आधार से लिंक नहीं किया गया&lt;/u></string>
+    <string name="lang_recieve_aadhaar_otp_message">आपको अपने आधार लिंक्ड मोबाइल नंबर पर एक OTP प्राप्त होगा</string>
+    <string name="lang_aadhaar_number_masked">आधार संख्या XXXX XXXX %1$s</string>
+    <string name="lang_send_otp">OTP भेजें</string>
+
+    <string name="lang_signature_upload_successfully">हस्ताक्षर सफलतापूर्वक अपलोड किया गया है</string>
+    <string name="lang_cheue_upload_successfully">चेक सफलतापूर्वक अपलोड किया गया है</string>
+    <string name="lang_education">शिक्षा</string>
+    <string name="lang_click_here">यहाँ क्लिक करें</string>
+    <string name="lang_to_verify_ifsc"> IFSC को सत्यापित करने के लिए</string>
+    <string name="lang_bank_added_successfully">बैंक विवरण सफलतापूर्वक जोड़ा गया </string>
+
+    <string name="lang_passport_front_title">इस बॉक्स के अंदर अपने पासपोर्ट का फ्रंट कवर रखें</string>
+    <string name="lang_passport_back_title">इस बॉक्स के अंदर अपने पासपोर्ट का पिछला कवर रखें</string>
+    <string name="lang_passport_upload_successfully">पासपोर्ट सफलतापूर्वक अपलोड किया गया है</string>
+    <string name="lang_passport_alert">आपने अपने पासपोर्ट के एक पक्ष को सफलतापूर्वक संलग्न कर लिया है \nअब आपको एक और साइड अटैच करना है.</string>
+
+    <string name="lang_present_flat_error">वर्तमान पते के लिए फ्लैट नंबर प्रदान करें</string>
+    <string name="lang_present_building_error">वर्तमान पते के लिए भवन का नाम प्रदान करेंं</string>
+    <string name="lang_present_area_error">वर्तमान पते के लिए क्षेत्र का नाम प्रदान करें</string>
+    <string name="lang_present_pin_error">वर्तमान पते के लिए मान्य पिन कोड प्रदान करें</string>
+    <string name="lang_present_resstat_error">कृपया वर्तमान पते के लिए आवासीय स्थिति का चयन करें</string>
+    <string name="lang_permanent_flat_error">स्थायी पते के लिए फ्लैट नंबर प्रदान करें</string>
+    <string name="lang_permanent_building_error">स्थायी पते के लिए भवन का नाम प्रदान करें</string>
+    <string name="lang_permanent_area_error">स्थायी पते के लिए क्षेत्र का नाम प्रदान करें</string>
+    <string name="lang_permanent_pin_error">स्थायी पते के लिए मान्य पिन कोड प्रदान करें</string>
+    <string name="lang_permanent_resstat_error">कृपया स्थायी पते के लिए आवासीय स्थिति का चयन करें</string>
+
+    <string name="lang_policy_term">पॉलिसी अवधि</string>
+    <string name="lang_premium">प्रीमियम</string>
+    <string name="lang_premium_payment_term">प्रीमियम भुगतान अवधि</string>
+    <string name="lang_sum_assured">सुनिश्चित राशि</string>
+    <string name="lang_method_of_payment">भुगतान की विधि</string>
+    <string name="lang_bank_name_amp_branch_address"><![CDATA[Bank Name & Branch Address]]></string>
+    <string name="lang_amount_in_rs">रकम (in ₹)</string>
+    <string name="lang_premium_paid_by_message">क्या प्रस्तावक के अलावा अन्य द्वारा प्रीमियम का भुगतान किया जाता है?</string>
+    <string name="lang_premium_paid_by_name">नाम से दिया गया प्रीमियम</string>
+    <string name="lang_relationship_with_proposer">प्रस्तावक के साथ संबंध</string>
+    <string name="lang_preference_of_renewal_premium">नवीकरण प्रीमियम की वरीयता</string>
+
+    <string name="lang_customer_kyc_verification_message">मैंने अपने ज्ञान और विश्वास के अनुसार सभी तथ्यों का पूर्ण, सच्चा और सटीक खुलासा किया है और मैंने किसी भी जानकारी को स्वीकार नहीं किया है।</string>
+    <string name="lang_officer_kyc_verification_message">मेरे पास यहां साझा किए गए आवेदक विवरण हैं</string>
+
+    <string name="lang_select_address_doc">पते का सबूत</string>
+
+    <string name="lang_life_insurance_details">जीवन बीमा विवरण</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lang_basicInfo_name_hint"><b>Clark Kent</b></string>
+    <string name="lang_pannm_hint"><b>10 अंकों का पैन नंबर</b></string>
+    <string name="lang_dob_hint"><b>डीडी | एमएम | YYYY</b></string>
+    <string name="lang_ifsc_hint"><b>IFSC दर्ज करें</b></string>
+    <string name="lang_other_name_hint"><b>वह नाम दर्ज करें जिसे आप के रूप में जाना जाता है</b></string>
+    <string name="lang_ifsc_enter_hint"><b>IFSC कोड डालें</b></string>
+    <string name="lang_bank_acnt_numb"><b>बैंक खाता संख्या</b></string>
+    <string name="lang_verification_code_hint"><b>X-X-X-X-X-X</b></string>
+    <string name="lang_basicInfo_referal_hint"><b>TIGR10</b></string>
+
+    <!--    Pan and Bank Details-->
+
+    <string name="lang_pan_details">पैन और बैंक विवरण</string>
+    <string name="lang_pan_number">पैन नंबर</string>
+    <string name="lang_any_other_name">क्या आप किसी अन्य नाम से जाने जाते हैं?</string>
+    <string name="ifsc">IFSC</string>
+    <string name="lang_rem_ifsc">IFSC कोड याद रखें?  </string>
+    <string name="lang_entr_dir">सीधे दर्ज करें</string>
+    <string name="lang_acnt_num">खाता संख्या</string>
+    <string name="lang_reacnt_num">खाता संख्या दोबारा प्रविष्ट करें</string>
+    <string name="lang_i_agr">मैं इसके लिए सहमत हूँ  </string>
+    <string name="lang_trm_use">उपयोग की शर्तें</string>
+
+
+    <!--    Other Info -->
+    <string name="lang_trading_exp_title">ट्रेडिंग का अनुभव</string>
+    <string name="occupation_title">व्यवसाय</string>
+    <string name="lang_design_title">पद</string>
+    <string name="lang_gender_title">लिंग</string>
+    <string name="lang_martial_title">वैवाहिक स्थिति</string>
+    <string name="lang_ubo_title">UBO स्थिति</string>
+    <string name="lang_whatthis">यह क्या है ?</string>
+    <string name="lang_annualinc_title">वार्षिक आय</string>
+    <string name="lang_proposedinv_title">शेयरखान के साथ प्रस्तावित निवेश</string>
+    <string name="lang_inc_src_title">आय का स्रोत</string>
+    <string name="lang_place_birth_title">जन्म स्थान</string>
+    <string name="lang_birth_plc_title">जन्म स्थान</string>
+    <string name="lang_othr_info">अन्य सूचना</string>
+
+    <!--    Doc list -->
+    <string name="lang_pan_bullet">\u2022 पैन कार्ड</string>
+    <string name="lang_incprf_bullet">\u2022 आय प्रमाण</string>
+    <string name="lang_addrsprf_bullet">\u2022 पते का सबूत</string>
+    <string name="lang_bank_bullet">\u2022 बैंक ए / सी स्टेटमेंट</string>
+    <string name="doc_msg">कृपया निम्नलिखित दस्तावेज़ की प्रतियां संभाल कर रखें। आपको उन्हें अगले चरण में अपलोड करना होगा</string>
+
+
+    <!--    Upload Document-->
+    <string name="lang_pan">पैन कार्ड</string>
+    <string name="lang_incprf">आय प्रमाण</string>
+    <string name="lang_addrsprf">पते का सबूत</string>
+    <string name="lang_bank">बैंक ए / सी स्टेटमेंट</string>
+    <string name="lang_profile">प्रोफ़ाइल फोटो</string>
+
+
+    <!--    Registration-->
+    <string name="lang_trading_msg">ओपन ट्रेडिंग सह डीमैट खाता तथा 15 मिनट में व्यापार शुरू करें</string>
+    <string name="lang_brokerage_fee">ब्रोकरेज फीस पर 70% की बचत करें</string>
+    <string name="lang_reg_title">अपनी अनूठी जरूरतों के लिए.</string>
+    <string name="lang_reg_min">15 मिनट</string>
+    <string name="lang_reg_saving">70% जमा पूंजी</string>
+    <string name="lang_reg_free_trade_acnt">अब एक निःशुल्क ट्रेडिंग खाता खोलें!</string>
+    <string name="lang_ref_cod">रेफरल कोड</string>
+
+
+    <string name="lang_name">नाम</string>
+    <string name="email">ईमेल आईडी</string>
+    <string name="lang_mob_no">मोबाइल नंबर</string>
+    <string name="city">शहर</string>
+    <string name="lang_dob">जन्म दिन</string>
+    <string name="lang_save_continue">सहेजें और जारी रखें</string>
+    <string name="start">प्रारंभ</string>
+
+    <string name="lang_seach_ifsc">IFSC कोड खोजें?</string>
+    <string name="lang_pan_skip">छोड़ें</string>
+    <string name="lang_bank_title">बैंक</string>
+    <string name="lang_branch_title">डाली</string>
+    <string name="lang_ifsc_code">IFSC कोड</string>
+    <string name="lang_select">चुनते हैं</string>
+
+    <string name="lang_upload_file_here" >फाइल यहां अपलोड करें</string>
+    <string name="lang_do_it_manually" >यदि आप \n एड्रेस प्रूफ काम नहीं करते हैं तो इसे मैन्युअल रूप से करें</string>
+    <string name="lang_upload_address" >अपना पता \ n अपलोड करें और प्रमाण अपलोड करें</string>
+
+    <string name="lang_personal_detail">व्यक्तिगत विवरणा</string>
+    <string name="lang_maiden_name">युवती नाम दर्ज करें</string>
+    <string name="lang_experience_occupation">अनुभव और व्यवसाय</string>
+    <string name="lang_other_info_listed_comp">मैं किसी भी सूचीबद्ध कंपनी का अंतिम लाभार्थी नहीं हूं</string>
+    <string name="lang_inc_other">आय और अन्य विवरण</string>
+    <string name="lang_ultimate_owner_msg">क्या आप सुनिश्चित हैं कि आप सूचीबद्ध कंपनी के अंतिम लाभार्थी मालिक हैं ?</string>
+    <string name="lang_senior_managing_msg">क्या आप सुनिश्चित हैं कि आप सूचीबद्ध कंपनी के वरिष्ठ प्रबंध अधिकारी हैं ?</string>
+
+    <string-array name="lang_ipv_step_list">
+        <item>चरण 1</item>
+        <item>चरण 2</item>
+        <item>चरण 3</item>
+    </string-array>
+
+    <string-array name="lang_ipv_step_data_list">
+        <item>आप तैयार हों, तो कृपया अपने पैन कार्ड और सभी अपलोड किए गए दस्तावेजों को एक-एक करके अपने चेहरे के बगल में रखें (जैसा कि ऊपर की छवि में दिखाया गया है) और रिकॉर्ड बटन दबाएं।</item>
+        <item>हम एक 10-सेकंड का वीडियो लेंगे और इसे अपने सर्वर पर स्वचालित रूप से अपलोड करेंगे</item>
+        <item>यदि आपके सत्यापन को पूरा करने के लिए जानकारी स्पष्ट है तो सहेजें को दबाएँ</item>
+    </string-array>
+
+    <string name="lang_upload_income_proof_disc">एफ और ओ, मुद्रा और कॉम को सक्रिय करने के लिए</string>
+    <string name="lang_upload_bank_disc" >अतिरिक्त सत्यापन के लिए</string>
+    <string name="lang_upload_address_proof">पता और प्रमाण अपलोड करें</string>
+    <string name="lang_upload_offline_kyc">ऑफलाइन ई-केवाईसी प्रक्रिया</string>
+    <string name="lang_upload_doc" >दस्तावेज़ अपलोड करें</string>
+    <string name="lang_upload_preview" >पूर्वावलोकन</string>
+    <string name="lang_upload_reload" >फपुन: अपलोड</string>
+    <string name="lang_upload_delete" >हटाना</string>
+    <string name="lang_start" >प्रारंभ</string>
+    <string name="lang_upload_ipv" >इन-पर्सन वेरिफिकेशन</string>
+    <string name="lang_save_n_continue" >सहेजें और जारी रखें</string>
+    <string name="lang_upload_update_address">अद्यतन पता और अपलोड सबूत</string>
+
+    <string name="lang_verify_emailid" >ईमेल आईडी सत्यापित करें</string>
+    <string name="lang_email_verification_hint" >OTP दर्ज करें</string>
+
+    <string name="lang_line_1" >लाइन 1</string>
+    <string name="lang_line_2" >लाइन 2</string>
+    <string name="lang_pin_hint" >पिन कोड</string>
+    <string name="lang_country">देश</string>
+
+    <string name="lang_present_address_error">कृपया वर्तमान पता अपलोड करें</string>
+    <string name="lang_permanent_address_error">कृपया स्थायी पता अपलोड करें</string>
+
+    <string name="lang_okyc_title">ऑफलाइन ई-केवाईसी</string>
+    <string name="lang_okyc_guide">अगर आपके पास ऑफलाइनकेवाईसी एक्सएमएल नहीं है तो आप इस बटन पर क्लिक करके प्राप्त कर सकते हैं। सुनिश्चित करें कि आपका आधार आपके मोबाइल नंबर के साथ मैप किया गया है।</string>
+
+    <string name="lang_e_signature">ई हस्ताक्षर</string>
+    <string name="lang_manual_sign_msg">यदि आपका मोबाइल नंबर आधार डेटाबेस के साथ पंजीकृत नहीं है</string>
+    <string name="lang_esign_info">खाता खोलने की प्रक्रिया को सफलतापूर्वक पूरा करने के लिए, चलिए अपना सबमिशन ई-साइन करें</string>
+    <string name="lang_action_proceed_esign">ई-साइन पर आगे बढ़ें</string>
+    <string name="lang_mobile_number_not_registered">मोबाइल नंबर पंजीकृत नहीं</string>
+    <string name="lang_preview_pdf" >डाउनलोड पीडीएफ देखें</string>
+    <string name="lang_client_esign_success">क्लाइंट ई-साइन पूरा हुआ</string>
+    <string name="lang_action_proceed_agent_esign">एजेंट ई-साइन के साथ आगे बढ़ें</string>
+
+    <string name="lang_action_update_address">पता बदलें</string>
+    <string name="lang_take_selfie">एक स्वफ़ोटो ले!</string>
+    <string name="lang_ipv_title_desc">रिकॉर्डिंग शुरू करने से पहले हमें आपकी फोटो चाहिए।</string>
+    <string name="lang_ipv_upload_meassage" >प्रोफ़ाइल चित्र सफल अपलोड करें!</string>
+    <string name="lang_ipv_upload_video_meassage" >वीडियो अपलोड सफल!</string>
+    <string name="lang_upload_success" >सफलतापूर्वक अपलोड हो गया!</string>
+
+    <string name="lang_ipv_continue" >जारी रहना</string>
+    <string name="lang_ipv_continue_meassage" >वीडियो रिकॉर्ड करना जारी रखें</string>
+    <string name="lang_ipv_simply_take_selfie">बस जल्दी सेल्फी लेना</string>
+    <string name="lang_ipv_completed_message">IPV सफलतापूर्वक पूरा हुआ</string>
+    <string name="lang_salary_title">इस बॉक्स के अंदर अपना वेतन पर्ची रखें और शार्प फोटो पर क्लिक करें</string>
+
+    <string name="lang_poa">POA प्रमाण</string>
+    <string name="lang_change_email_msg">यदि आप किसी भिन्न ईमेल आईडी का उपयोग करना चाहते हैं, तो निम्न बटन पर टैप करें</string>
+    <string name="lang_poa_title">इस बॉक्स के अंदर अपने POA सबूत के सामने रखें और शार्प फोटो पर क्लिक करें</string>
+    <string name="lang_poa_upload_successfully">POA को सफलतापूर्वक अपलोड किया गया है</string>
+    <string name="lang_valid_email_message">कृपया मान्य ईमेल आईडी दर्ज करें</string>
+    <string name="lang_change_email">ईमेल आईडी बदलें</string>
+    <string name="lang_diff_email">विभिन्न ईमेल आईडी का उपयोग करें</string>
+
+    <string name="lang_voterid_title">इस बॉक्स के अंदर अपनी वोटर आईडी रखें और एक शार्प फोटो पर क्लिक करें</string>
+    <string name="lang_electricity_title">इस बॉक्स के अंदर अपने बिजली के बिल के सामने रखें और एक शार्प फोटो पर क्लिक करें</string>
+    <string name="lang_driving_title">इस बॉक्स के अंदर अपने ड्राइविंग लाइसेंस के सामने रखें और एक तीव्र तस्वीर पर क्लिक करें</string>
+    <string name="lang_upload_successfully">सफलतापूर्वक अपलोड किया गया</string>
+    <string name="lang_complete">पूर्ण</string>
+    <string name="lang_india">इंडिया</string>
+
+    <string name="lang_checkout_title">चेकआउट सारांश</string>
+    <string name="lang_checkout_info">आरोप क्यों?</string>
+    <string name="lang_checkout_total">कुल</string>
+    <string name="lang_checkout_payable">केवल भुगतान करें</string>
+    <string name="lang_checkout_action_pay">अब भुगतान करें</string>
+
+    <string name="lang_continue">जारी रखें</string>
+    <string name="lang_select_plan">प्लान का चयन करें</string>
+    <string name="lang_account_charge">खाता खोलने का शुल्क</string>
+    <string name="lang_account_charge_msg">चुनें कि कौन सा ब्रोकरेज आपको सबसे अच्छा लगता है और प्रत्येक पैकेज के बारे में अतिरिक्त जानकारी प्राप्त करने के लिए अधिक जानें पर एक योजना चुनें</string>
+    <string name="lang_subscription">अंशदान</string>
+    <string name="lang_learnmore">और अधिक जानें</string>
+    <string name="lang_equity">इक्विटी</string>
+    <string name="lang_fno">FnO</string>
+    <string name="lang_intraday">एक दिवसीय</string>
+    <string name="lang_delivery">वितरण</string>
+    <string name="lang_feature">फ्यूचर्स</string>
+    <string name="lang_options">विकल्प</string>
+    <string name="lang_permonth">प्रति माह</string>
+    <string name="lang_free">नि: शुल्क</string>
+    <string name="lang_brokerage">दलाली</string>
+    <string name="lang_amcamount">एएमसी राशि</string>
+    <string name="lang_delete_confirm">Are you sure you want to delete this document.</string>
+    <string name="lang_manual_sign_message">शेयरखान के साथ जुड़ने के लिए धन्यवाद। सत्यापन के बाद, एक कार्यकारी आगे की जानकारी के साथ आपसे संपर्क करेगा।</string>
+    <string name="lang_rupee">₹</string>
+    <string name="lang_enter_email">कृपया कुछ देर बाद प्रयास करें</string>
+    <string name="lang_select_relationship">संबंध चुनें</string>
+    <string name="lang_resume_application">आवेदन फिर से शुरू करें</string>
+
+    <string name="lang_dp_tariff">डीपी टैरिफ</string>
+    <string name="lang_update_address">अद्यतन पता</string>
+
+    <string name="lang_payment_summary">वेतन का सारांश</string>
+    <string name="lang_product_fee">उत्पाद शुल्क</string>
+    <string name="lang_application_fee">आवेदन शुल्क</string>
+    <string name="lang_amount_paid">भुगतान की गई राशि</string>
+    <string name="lang_payment_status">स्थिति</string>
+    <string name="lang_payment_paid_on">भुगतान करना</string>
+
+
+    <string name="lang_title_app_status">आवेदन की स्थिति</string>
+    <string name="lang_download">डाउनलोड</string>
+
+    <string name="lang_other_desgination">अन्य पदनाम</string>
+    <string name="lang_other_info_smo">मैं किसी भी सूचीबद्ध कंपनी का वरिष्ठ प्रबंध अधिकारी नहीं हूं</string>
+    <string name="lang_complete_ipv">कृपया इन-पर्सन वेरिफिकेशन पूरा करें</string>
+    <string name="lang_complete_profile">कृपया प्रोफ़ाइल चित्र अपलोड करें</string>
+    <string name="lang_complete_pan">कृपया पैन अपलोड करें</string>
+    <string name="lang_complete_bank">कृपया बैंक प्रमाण अपलोड करें</string>
+    <string name="lang_complete_address">कृपया एड्रेस प्रूफ अपलोड करें</string>
+    <string name="lang_complete_income">कृपया आय प्रमाण अपलोड करें</string>
+    <string name="lang_complete_poa">कृपया POA प्रमाण अपलोड करें</string>
+    <string name="lang_select_ifsc">कृपया IFSC कोड लाने के लिए बैंक और शाखा का चयन करें</string>
+    <string name="lang_no_doc">सर्वर पर कोई दस्तावेज नहीं मिले</string>
+    <string name="lang_havent_received_otp">OTP प्राप्त नहीं हुआ है? रीसेंड करने के लिए क्लिक करें</string>
+    <string name="lang_payment_success" >का भुगतान </string>
+    <string name="lang_success" >सफल!</string>
+    <string name="lang_not_received_otp">OTP प्राप्त नहीं हुआ है? रीसेंड करने के लिए क्लिक करें</string>
+    <string name="lang_digit_otp">6-अंकीय ओटीपी</string>
+    <string name="lang_verify_mobile">मोबाइल नंबर सत्यापित करें</string>
+    <string name="lang_adhar_upload_meassage" >ऑफलाइन आधार कार्ड अपलोड सफल!</string>
+
+    <string name="lang_congratulation">बधाई हो</string>
+    <string name="lang_account_activated">आपका खाता सक्रिय है</string>
+    <string name="lang_set_trading_password">पासवर्ड सेट करें और ट्रेडिंग शुरू करें</string>
+    <string name="lang_poa_heading">eDIS and PoA</string>
+    <string name="lang_poa_detail_1">ईडीआईएस के माध्यम से, आप शेयर पावर के लिए पावर ऑफ अटॉर्नी (पीओए) प्रदान किए बिना भी ओटीपी सत्यापन के माध्यम से स्टॉक / ट्रांसफर मार्जिन के रूप में बेच सकते हैं। यद्यपि यह व्यापार शुरू करने के लिए सुविधाजनक है, हम अत्यधिक हस्ताक्षरित पीओए भेजने की सलाह देते हैं ताकि हम सभी लेनदेन को सुविधाजनक बना सकें।</string>
+    <string name="lang_poa_detail_2">पीओए दस्तावेज़ आपके ईमेल आईडी पर भेजा गया है। कृपया प्रिंट करें, हस्ताक्षर करें और इसे हमारे पंजीकृत कार्यालय के पते पर भेजें। ध्यान दें कि पीओए हमारे ऑनलाइन प्लेटफार्मों के माध्यम से आईपीओ या म्यूचुअल फंड में निवेश करना अनिवार्य है। इसके अलावा, लेनदेन के मूल्य पर एक सीमा है जो शेयरखान ईडीआईएस का उपयोग करके निष्पादित कर सकता है।</string>
+    <string name="lang_poa_detail_3">महत्वपूर्ण: पीओए प्रदान करने का मतलब यह नहीं है कि आप शेयरखान या उसके सहयोगियों / कर्मचारियों को आपके लिए निवेश निर्णय लेने के लिए अधिकृत कर रहे हैं। यह आपके निर्देशों को निष्पादित करने का अधिकार है।</string>
+    <string name="lang_download_poa">POA डाउनलोड करें</string>
+    <string name="lang_yes_continue">हाँ, संपर्क करें</string>
+
+    <string name="lang_tool_tip_title" >त्वरित सुझाव</string>
+    <string name="lang_tool_tip_title_charge" >आरोप क्यों?</string>
+    <string name="lang_tool_tip_title_smo" >SMO स्थिति</string>
+    <string name="lang_tool_tip_title_ubo" >UBO स्थिति</string>
+    <string name="lang_tool_tip_got_it" >समझ गया</string>
+    <string name="lang_tool_tip_message_smo" >आप किसी भी सूचीबद्ध कंपनी के वरिष्ठ प्रबंध अधिकारी (एसएमओ) हैं यदि आप: बोर्ड के निदेशक या पर्यवेक्षक बोर्ड के अध्यक्ष हैं - सीआरओ हैं - सीएफओ हैं - कंपनी के निर्णय पर प्रमुख प्रभाव है; उदाहरण के लिए, सीओओ या अन्य कार्यकारी</string>
+    <string name="lang_tool_tip_message_ubo" >आप किसी भी कंपनी के अंतिम लाभार्थी मालिक हैं, यदि आप: - प्रत्यक्ष या अप्रत्यक्ष रूप से उस कंपनी को नियंत्रित करते हैं - स्वयं, प्रत्यक्ष या अप्रत्यक्ष रूप से, उस कंपनी के शेयर पूंजी या मतदान के अधिकार का 10% या अधिक - किसी अन्य माध्यम से, व्यायाम, एक नियंत्रण कंपनी के प्रबंधन निकायों या सामान्य शेयरधारकों की बैठक में</string>
+    <string name="lang_tool_tip_message_charge">यह शुल्क हमें अनुपालन और वैधानिक लागत को कवर करने की अनुमति देता है। इसमें आपके डीमैट खाते के लिए वार्षिक रखरखाव शुल्क (एएमसी) भी शामिल है।</string>
+    <string name="lang_personal_dtl">व्यक्तिगत विवरण</string>
+    <string name="lang_experiance_occ">अनुभव और व्यवसाय</string>
+    <string name="lang_didnt_find">क्या आप के लिए देख रहे थे नहीं मिला?</string>
+    <string name="lang_contact_support">हमारे सहयोगी स्टाफ से संपर्क करें</string>
+    <string name="lang_help_subtitle">समझें कि विवरण क्यों आवश्यक हैं</string>
+    <string name="lang_pan_help_title">पैन और बैंक विवरण क्यों?</string>
+    <string name="lang_take_picture" >एक तस्वीर ले लो!</string>
+    <string name="lang_help_profile_pic">प्रोफ़ाइल फोटो</string>
+    <string name="lang_find_ifsc">IFSC का पता लगाएं</string>
+    <string name="lang_otp_sent">OTP भेजा गया!</string>
+    <string name="lang_failed_generate_otp">OTP जनरेट करने में विफल</string>
+
+    <string-array name="lang_help_pan_list">
+        <item>पैन कार्ड क्यों?</item>
+        <item>जन्म की तारीख क्यों?</item>
+        <item>क्या मेरा डेटा सुरक्षित है?</item>
+        <item>बैंक विवरण क्यों?</item>
+    </string-array>
+
+    <string-array name="lang_help_pan_list_subtitle">
+        <item>यह हमारे लिए सेबी द्वारा अनिवार्य है कि वह उस व्यक्ति का पैन कार्ड विवरण एकत्र करे, जो डीमैट और ट्रेडिंग खाता खोलना चाहता है</item>
+        <item>यह हमें आपके पैन विवरण को सत्यापित करने में मदद करता है</item>
+        <item>हां, हम आपकी गोपनीयता का सम्मान करते हैं और हम आपको आश्वस्त करते हैं कि आपका डेटा हमारे साथ 100% सुरक्षित है</item>
+        <item>आपके डीमैट खाते को लिंक करने के लिए बैंक खाते का विवरण अनिवार्य है</item>
+    </string-array>
+
+    <string name="lang_upload_help_title">दस्तावेज़ क्यों अपलोड करें</string>
+    <string-array name="lang_help_upload_list">
+        <item>आधार कार्ड क्यों?</item>
+        <item>यदि मेरे पास आधार कार्ड नहीं है तो क्या होगा?</item>
+        <item>आय का विवरण क्यों?</item>
+    </string-array>
+
+    <string-array name="lang_help_upload_list_subtitle">
+        <item>यह हमारे लिए अनिवार्य है कि हम डीमैट और ट्रेडिंग खाता खोलने के इच्छुक व्यक्ति का आधार कार्ड विवरण एकत्र करें।</item>
+        <item>यदि आपके पास आधार कार्ड नहीं है, तो आपको बस कुछ दस्तावेज अपलोड करने होंगे और हम आपके पते को सत्यापित करेंगे</item>
+        <item>यह सेबी द्वारा हमारे लिए उस व्यक्ति का व्यक्तिगत आय विवरण एकत्र करने के लिए अनिवार्य है जो डीमैट खाता खोलना चाहता है</item>
+    </string-array>
+
+    <string name="lang_ipv_help_title">आईपीवी (इन-पर्सन वेरिफिकेशन)</string>
+    <string-array name="lang_help_ipv_list">
+        <item>क्यों जरूरी है?</item>
+    </string-array>
+
+    <string-array name="lang_help_ipv_list_subtitle">
+        <item>चूंकि यह खाता खोलने की प्रक्रिया 100% ऑनलाइन है, इसलिए हमें यह सुनिश्चित करने की आवश्यकता है कि एक वास्तविक, वास्तविक व्यक्ति खाता खोल रहा है। इसके अलावा, यह कदम सेबी द्वारा भी अनिवार्य है।</item>
+    </string-array>
+
+    <string name="lang_otherinfo_help_title">क्यों व्यक्तिगत विवरण</string>
+    <string-array name="lang_help_otherinfo_list">
+        <item>सेबी डीमैट खाता खोलने के लिए कुछ व्यक्तिगत विवरणों के संग्रह को अनिवार्य करता है</item>
+    </string-array>
+
+    <string-array name="lang_help_otherinfo_list_subtitle">
+        <item></item>
+    </string-array>
+</resources>
+
+
+

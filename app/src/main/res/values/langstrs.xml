@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lang_login">LOGIN</string>
+    <string name="lang_password">Password</string>
+    <string name="lang_launcher_text">Opening account was never this easy!</string>
+    <string name="lang_nav_notification">Notification</string>
+    <string name="lang_nav_logout">Logout</string>
+    <string name="lang_login_subtitle">Let’s Login</string>
+    <string name="lang_tenure">Tenure</string>
+    <string name="lang_submit">Submit</string>
+
+    <string name="lang_ref1">Reference 1</string>
+    <string name="lang_ref2">Reference 2</string>
+
+    <string name="lang_address_line_1">Flat Number</string>
+    <string name="lang_address_line_2">Building Name</string>
+    <string name="lang_address_line_3">Area Name</string>
+    <string name="lang_postal_code">PinCode</string>
+    <string name="lang_city">City / Town</string>
+    <string name="lang_employer_name">Employer Name</string>
+    <string name="lang_establishment_type">Occupation</string>
+    <string name="lang_bank_name">Bank name</string>
+    <string name="lang_bank_branch">Bank Branch</string>
+    <string name="lang_IFSC_code">IFSC code</string>
+    <string name="lang_micr">MICR</string>
+    <string name="lang_account_number">Account number</string>
+
+    <string name="lang_relation">Choose Relation</string>
+
+    <string name="lang_get_loan">GET LOAN</string>
+
+    <string name="lang_provide_aadhar_card_title">Provide your Aadhaar card</string>
+    <string name="lang_aadhar_card_sub_title">You can scan QR code/click a photo/ attach your Aadhaar</string>
+    <string name="lang_scan_qr_code">Scan Aadhaar QR code</string>
+    <string name="lang_upload_aadhar">Upload Aadhaar card</string>
+
+    <string name="lang_personal_detail_title">Check if the details are okay</string>
+    <string name="lang_personal_detail_subtitle">Details are auto fetched, Please check before proceeding</string>
+    <string name="lang_full_name">Full Name (as on your Aadhaar card)</string>
+    <string name="lang_date_of_birth">Date Of Birth</string>
+    <string name="lang_gender">Gender</string>
+    <string name="lang_next">NEXT</string>
+
+    <string name="lang_not_receive_otp">Didn’t receive the code?" "</string>
+    <string name="lang_resend">RESEND</string>
+    <string name="lang_verify">VERIFY NOW</string>
+    <string name="lang_state">State</string>
+    <string name="lang_country">Country</string>
+    <string name="lang_residential_status">Residential Status</string>
+    <string name="lang_owned">Owned</string>
+    <string name="lang_rented">Rented</string>
+    <string name="lang_as_aadhar">Same as Aadhaar</string>
+    <string name="lang_permanent_res_add">Permanent Residential Address</string>
+    <string name="lang_present_res_add">Present Residential Address</string>
+    <string name="lang_address_subtitle">Give your address details</string>
+    <string name="lang_address_title">Great! Few questions more</string>
+    <string name="lang_terms_and_condition">Terms &amp; Conditions Apply*</string>
+    <string name="lang_loan_list_title">Loan Type</string>
+    <string name="lang_loan_detail_title1">Set your </string>
+    <string name="lang_loan_detail_title2"> amount</string>
+    <string name="lang_proceed">PROCEED</string>
+    <string name="lang_rs">₹</string>
+    <string name="lang_go">YES! LET\'S GO!</string>
+    <string name="lang_yes_continue">YES, CONTINUE</string>
+
+    <string name="lang_work_exp">Trading Experience</string>
+    <string name="lang_work_desig">Designation</string>
+    <string name="lang_source_wealth">Source of wealth</string>
+    <string name="lang_birth_place">Place of birth</string>
+    <string name="lang_nature_business">Nature of Business</string>
+    <string name="lang_proposed_invest">Proposed Investment with Sharekhan</string>
+    <string name="lang_annual_income">Annual Income</string>
+
+    <string name="lang_register_title">Open your demat and trading account</string>
+    <string name="lang_register_subtitle">Let’s Register</string>
+    <string name="lang_email">Email</string>
+    <string name="lang_mobile">Mobile</string>
+    <string name="lang_register_name">Full Name (as per PAN card)</string>
+    <string name="lang_by_proceding">I agree to the</string>
+    <string name="lang_terms_cond"><u>Terms &amp; Conditions</u></string>
+    <string name="lang_register">REGISTER</string>
+
+    <string name="lang_lets_start">LET\'S START</string>
+
+    <string name="lang_registered_successfully">You are successfully registered!</string>
+    <string name="lang_one_step_closer">You are one step closer to opening your account! Let’s start with filling in your details.</string>
+
+    <string name="lang_verify_email">Verify your email ID</string>
+    <string name="lang_look_out_mail">Look out for verification
+mail from</string>
+
+    <string name="lang_choose_your_language">Choose Your Language</string>
+    <string name="lang_query_title">Have a Query?</string>
+    <string name="lang_query_subtitle">You can get assistance from here</string>
+    <string name="lang_intro_screen_one_title">Open your Demat &amp; Trading Account</string>
+    <string name="lang_intro_screen_one_subtitle">Provide your details and choose the products you want to invest in</string>
+
+    <string name="lang_intro_screen_two_title">Provide your details only once</string>
+    <string name="lang_intro_screen_two_subtitle">Forget the hassle of manually entering your details multiple times, just enter once and we will do the rest</string>
+
+    <string name="lang_intro_screen_three_title">Apply For Loan</string>
+    <string name="lang_intro_screen_three_subtitle">Verify documents digitally and get quick pre approval.</string>
+    <string name="lang_bank_detail_title">Confirm Bank Details</string>
+    <string name="lang_bank_detail_subtitle">Please make sure the Bank details provided below are correct</string>
+
+    <string name="lang_holder_name">Account Holder\'s Name</string>
+    <string name="lang_bank_verity_acc"><b>1 rupee will get credited</b> in your account to verify the bank details</string>
+    <string name="lang_attachment_title">Please provide below mentioned documents</string>
+    <string name="lang_attachment_subtitle">You can click photo or attach these documents</string>
+    <string name="lang_confirm">CONFIRM</string>
+    <string name="lang_reference_title">Give 2 Trusted References</string>
+    <string name="lang_reference_subtitle">Please make a business contact as a reference. This is because we can contact them in your absence. </string>
+
+    <string name="lang_done">DONE</string>
+    <string name="lang_skip"><u>SKIP</u></string>
+    <string name="lang_processing_documents">Processing Documents</string>
+    <string name="lang_processing_documents_subtitle">We are working hard! your documents are getting validated. We will get back to you shortly.</string>
+    <string name="lang_eligibility_check">Eligibility Check</string>
+    <string name="lang_loan_aproval">Loan Approval</string>
+
+    <string name="lang_upload_bank_statement">Upload Bank Statement</string>
+    <string name="lang_upload_statement_pdf_form">Please upload PDF (Preferable) or take a clear photograph of the bank statement of your main bank account</string>
+    <string name="lang_provide_pdf_pwd">Provide PDF password if any</string>
+    <string name="lang_dont_worry">Don’t worry! Your Bank statements and
+password is safe with us</string>
+
+    <string name="lang_choose_statement_type">You can upload Bank Statement by pdf or by clicking pictures</string>
+    <string name="lang_upload">Upload Statements </string>
+    <string name="lang_bank_statement">Bank Statement</string>
+    <string name="lang_upload_one_year_bank_statement">Tap here to upload your 6 month(s) bank statement through your phone.</string>
+
+
+    <string name="lang_loan_agreement">Loan Agreement</string>
+    <string name="lang_loan_agreement_sub_title">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="lang_terms_cond_of_loan">Terms &amp; Conditions of the loan</string>
+    <string name="lang_tems_cond_line_one">Only if you agree with the terms and conditions, only then go ahead with this loan.</string>
+    <string name="lang_tems_cond_line_two">The main terms of the loan are
+1. Loan amount: INR 1,50,000
+2. Tenure: 36 months
+3. EMI: INR 12,566/month</string>
+    <string name="lang_your_info">Your Information</string>
+    <string name="lang_info_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </string>
+    <string name="lang_read_carefully">Please read the documents carefully. Once you
+E-sign, you won’t be able to change anything.</string>
+    <string name="lang_later">LATER</string>
+    <string name="lang_verify_e_sign">VERIFY E-SIGN</string>
+    <string name="lang_company_name">Name of Company</string>
+    <string name="lang_business_loan_type">Type of Business Loan</string>
+    <string name="lang_gst_number">GST Number (Optional)</string>
+    <string name="lang_drop_pin"><u>Drop pin on map</u></string>
+    <string name="lang_gps_title">GPS Location of Present Address</string>
+
+    <string name="lang_find_bank">Find your bank</string>
+    <string name="lang_search_bank">"Can’t find your bank?</string>
+    <string name="lang_net_signup">Don’t worry! We have your back.</string>
+    <string name="lang_cust_id">Customer ID</string>
+    <string name="lang_norton_security">We are certified by the Norton security</string>
+
+    <string name="lang_co_applicant_screen_title">Joint Holder\'s Details</string>
+    <string name="lang_co_applicant_screen_sub_title">Please provide below details</string>
+    <string name="lang_co_applicant_pan_no">Joint Holder PAN Number</string>
+    <string name="lang_co_applicant_aadhar_no">Joint Holder Aadhaar Number</string>
+    <string name="lang_co_applicant_name">Joint Holder Full Name (As per Aadhaar)</string>
+    <string name="lang_co_applicant_relation">Relationship with Applicant</string>
+    <string name="lang_co_applicant_email">E-mail</string>
+    <string name="lang_co_applicant_mobile">Mobile</string>
+    <string name="lang_residential_address">Residential Address</string>
+    <string name="lang_add_co_applicant">Add Joint Holder</string>
+
+    <string name="lang_alert_server_error">Some error occurred.</string>
+    <string name="lang_alert_offline" translatable="false">You are not connected to Internet</string>
+    <string name="lang_pan_no">PAN Number</string>
+    <string name="lang_adhar_no">Aadhaar Number</string>
+    <string name="lang_as_above">Same as Above</string>
+    <string name="lang_year">Year</string>
+
+    <string name="lang_scan">SCAN</string>
+    <string name="lang_aadhar_front_title">Place front of your Aadhaar Card inside this box and click Sharp Photo</string>
+    <string name="lang_aadhar_back_title">Place back of your Aadhaar Card inside this box and click Sharp Photo</string>
+    <string name="lang_account_safe_title">Your account is safe</string>
+    <string name="lang_account_safe_desc">We are authorized to access your bank statement only. All your other information and bank functions are untouched.</string>
+    <string name="lang_ok">OK</string>
+    <string name="lang_enter_password">Enter Password</string>
+    <string name="lang_not_user">New user?</string>
+    <string name="lang_already_user">Already registered?</string>
+    <string name="lang_alert_not_registered_user">You are not registered</string>
+    <string name="lang_view"><u>VIEW</u></string>
+    <string name="lang_cust_dashboard_title">My Account Opening Status</string>
+    <string name="lang_upload_successful">Upload Successful!</string>
+    <string name="lang_pan_upload_successfully">PAN Card is successfully uploaded</string>
+    <string name="lang_poa_upload_successfully">POA is successfully uploaded</string>
+    <string name="lang_aadhar_upload_successfully">Aadhaar Card is successfully uploaded</string>
+    <string name="lang_delete"><u>Delete</u></string>
+    <string name="lang_bank_statement_upload_successfully">Bank Statements uploaded successfully </string>
+    <string name="lang_cant_find_company">Can\'t find your company?</string>
+    <string name="lang_UBO_list_comp">I am not UBO of any listed company</string>
+    <string name="lang_SMO_any_comp">I am not SMO of any company</string>
+    <string name="lang_change">Change</string>
+    <string name="lang_date_of_incorporation">Date of Incorporation</string>
+    <string name="lang_file_error">Error occurred while selecting file</string>
+    <string name="lang_active_loan">Active Loan</string>
+    <string name="lang_ongoing_loan">On-going Loan application</string>
+    <string name="lang_draft">Draft</string>
+    <string name="lang_approved">Approved</string>
+    <string name="lang_disbursed">Disbursed</string>
+    <string name="lang_rejected">Rejected</string>
+    <string name="lang_menu">Menu</string>
+
+    <string name="lang_get_in_touch">Get in touch</string>
+    <string name="lang_change_lang">Change language</string>
+    <string name="lang_nav_other">Others</string>
+    <string name="lang_lakhs">Lakh(s)</string>
+    <string name="lang_month_tenure">Tenure</string>
+    <string name="lang_loan_amount">Loan Amount</string>
+    <string name="lang_emi_estimated">EMI (Estimated)</string>
+    <string name="lang_adjust_tenure">*Adjust tenure to get your desired EMI</string>
+    <string name="lang_doc_conf_title">Make sure you have all these documents handy for our next steps</string>
+    <string name="lang_doc_conf_subtitle">This should be quick process</string>
+    <string name="lang_months">Months</string>
+    <string name="lang_loan_ready">Account is almost ready</string>
+    <string name="lang_loan_is_just">Account is just</string>
+    <string name="lang_steps_away">steps away</string>
+    <string name="lang_stepper_subtitle">Open an online trading account</string>
+    <string name="lang_pan_title">Place front of your PAN Card inside this box and click Sharp Photo</string>
+    <string name="lang_poa_title">Place front of your POA proof inside this box and click Sharp Photo</string>
+    <string name="lang_salary_title">Place your Salary Slip inside this box and click Sharp Photo</string>
+    <string name="lang_upload_from_gallary">UPLOAD FROM GALLERY</string>
+    <string name="lang_gallery">Gallery</string>
+    <string name="lang_pdf">PDF</string>
+    <string name="lang_looks_good">Looks Good?</string>
+    <string name="lang_permanent_res_address">Permanent Residential Address</string>
+    <string name="lang_confirm_location">CONFIRM LOCATION</string>
+    <string name="lang_profile_title">Now, Let’s take a profile picture</string>
+    <string name="lang_occupation_title">Income and Occupation</string>
+    <string name="lang_inc_other">Income and Other Details</string>
+    <string name="lang_occupation_subtitle">Please provide below information</string>
+    <string name="lang_search_bank_hint">Enter your bank name</string>
+    <string name="lang_secured_network">Secured Network</string>
+    <string name="lang_salary_slip_desc">Latest 3 months salary slip</string>
+    <string name="lang_Form16_desc">Form 16 (Latest year)</string>
+    <string name="lang_other_income_proof_desc">Other income proof or residential address proof like - Registered rent agreement/Passport/Leave and License/Utility bill (Up to 3 months old)</string>
+    <string name="lang_business_registration_desc">GST registration certificate / Udyog Aadhaar / Business Proof</string>
+    <string name="lang_vintage_proof_desc">Shop Act License or any other Vintage proof</string>
+    <string name="lang_itr_desc">Latest 2 Year ITR with Computation</string>
+    <string name="lang_profit_loss_desc">P&amp;L, Balance Sheet with schedules</string>
+    <string name="lang_other_documents_desc">Other income proof or residential address proof like - Registered rent agreement/Passport/Leave and License/Utility bill (Up to 3 months old)</string>
+    <string name="lang_salary_slip">Salary Slip</string>
+    <string name="lang_form_16">Form 16</string>
+    <string name="lang_other_doc">Other Document</string>
+    <string name="lang_other_docs">Other Documents (optional)</string>
+    <string name="lang_edit">EDIT</string>
+    <string name="lang_you_need">You need to upload</string>
+    <string name="lang_more_sal_slip">more salary slip(s)</string>
+    <string name="lang_get_loan_title">Great! \n The process is complete</string>
+    <string name="lang_get_loan_des">We are reviewing your file, we\'ll connect with you shortly</string>
+    <string name="lang_company_details">Company Details</string>
+    <string name="lang_business_sub_title">Tell us about your company</string>
+    <string name="lang_company_pan">Upload Company PAN card</string>
+    <string name="lang_co_applicant_list_title">Add Joint Holder Details</string>
+    <string name="lang_co_applicant_list_sub_title">You can add up to 2 joint holders</string>
+    <string name="lang_upload_pan">Upload PAN card</string>
+    <string name="lang_pancard_uploaded">PAN card uploaded</string>
+    <string name="lang_aadhaar_uploaded">AADHAAR card uploaded</string>
+    <string name="lang_business_registration">Business registration ID</string>
+    <string name="lang_vintage_proof">Business Vintage Proof</string>
+    <string name="lang_itr">ITR</string>
+    <string name="lang_profit_loss">Profit and Loss sheet</string>
+    <string name="lang_log_out_error">Not able to logout, please try again later.</string>
+    <string name="lang_alert_add_loan">Click + to start opening your account</string>
+    <string name="lang_dashboard_title_complete">My Previous Loans</string>
+    <string name="lang_dashboard_title_active">My Active Loans</string>
+    <string name="lang_dashboard_title_in_progress">In Progress Loans</string>
+    <string name="lang_my_loan">My Accounts</string>
+    <string name="lang_month">Month</string>
+    <string name="lang_aadhaar_alert">You have successfully attached one side of your Aadhaar Card \nNow you have to attach another side.</string>
+    <string name="lang_alert_otp_error">Please Enter Valid OTP</string>
+    <string name="lang_try_again">Please try again Later</string>
+    <string name="lang_years">Years</string>
+    <string name="lang_upload_pdf">Upload</string>
+    <string name="lang_open_camera">Camera</string>
+    <string name="lang_cancel">Cancel</string>
+    <string name="lang_enter_otp_title1">Please enter the OTP sent to</string>
+    <string name="lang_enter_otp_title2">mobile number</string>
+    <string name="lang_pdf_error">Please select PDF file</string>
+    <string name="lang_gps_title_company">GPS Location of Company</string>
+    <string name="lang_files_upload_successfully">files are successfully uploaded</string>
+    <string name="lang_otp_sent">OTP sent to your registered mobile number successfully</string>
+    <string name="lang_failed_generate_otp">Failed to generate OTP</string>
+
+    <string-array name="personal_doc_list">
+        <item>PAN Card</item>
+        <item>Income proof</item>
+        <item>Personalised cheque leaf</item>
+    </string-array>
+    <string-array name="business_doc_list">
+        <item>PAN Number (Personal &amp; Business)</item>
+        <item>Aadhaar card</item>
+        <item>Bank statement</item>
+        <item>GST registration certificate / Udyog Aadhaar / Business proof</item>
+        <item>Latest 2 years ITR</item>
+        <item>Balance sheet with schedules</item>
+        <item>Profit &amp; Loss sheet with schedules</item>
+        <item>Other - specify</item>
+    </string-array>
+    <string-array name="array_business_stepper">
+        <item>Upload PAN Card</item>
+        <item>Upload Aadhaar Card</item>
+        <item>Enter Your Personal Info</item>
+        <item>Business Info</item>
+        <item>Bank Statement &amp; Bank Details</item>
+        <item>Other Attachment</item>
+        <item>Add Co-applicant</item>
+    </string-array>
+    <string-array name="array_personal_stepper">
+        <item>Proof of Identity</item>
+        <item>Proof of Address</item>
+        <item>Personal Info</item>
+        <item>Proof of Bank</item>
+        <item>Select Products</item>
+        <item>Income and Occupation</item>
+        <item>IPV and Signature</item>
+        <item>Joint Account Holders</item>
+        <item>Review Application</item>
+    </string-array>
+    <string name="lang_pan_help_title">Why PAN and Bank details?</string>
+    <string-array name="lang_help_pan_list">
+        <item>Why PAN Card?</item>
+        <item>Why date of birth?</item>
+        <item>Is my data secure?</item>
+        <item>Why bank details?</item>
+    </string-array>
+
+    <string-array name="lang_help_pan_list_subtitle">
+        <item>It\'s mandated by SEBI for us to collect the PAN Card details of the individual who wants to open a demat and trading account</item>
+        <item>It helps us verify your PAN details</item>
+        <item>Yes, we respect your privacy and we assure you that your data is 100% secure with us</item>
+        <item>Bank account details are mandatory in order to link your demat account</item>
+    </string-array>
+
+    <string name="lang_upload_help_title">Why upload Documents</string>
+    <string-array name="lang_help_upload_list">
+        <item>Why Aadhaar Card?</item>
+        <item>What if I don\’t have an Aadhaar Card?</item>
+        <item>Why income details?</item>
+    </string-array>
+
+    <string-array name="lang_help_upload_list_subtitle">
+        <item>It\'s mandated by SEBI for us to collect the Aadhaar Card details of the individual who wants to open a demat and trading account</item>
+        <item>In case you do not have an Aadhaar Card, you just need to upload certain documents and we will verify your address</item>
+        <item>It\'s mandated by SEBI for us to collect the personal income details of the individual who wants to open a demat account</item>
+    </string-array>
+
+    <string name="lang_ipv_help_title">IPV (In-Person Verification)</string>
+    <string-array name="lang_help_ipv_list">
+        <item>Why is it necessary?</item>
+    </string-array>
+
+    <string-array name="lang_help_ipv_list_subtitle">
+        <item>Since this account opening procedure is 100% online, we need to be sure that a real, genuine person is opening the account. Besides, this step is also mandated by SEBI.</item>
+    </string-array>
+
+    <string name="lang_otherinfo_help_title">Why Personal Details</string>
+    <string-array name="lang_help_otherinfo_list">
+        <item>SEBI mandates the collection of certain personal details in order to open a demat account</item>
+    </string-array>
+
+    <string-array name="lang_help_otherinfo_list_subtitle">
+        <item></item>
+    </string-array>
+
+    <string name="lang_about_us">About</string>
+    <string name="lang_try_again_camera">Failed to set flash. Please reopen the camera.</string>
+    <string name="lang_image_error">Please select image only</string>
+    <string name="lang_address">Address</string>
+    <string name="lang_select_string">SELECT</string>
+
+    <string name="lang_welcome">Welcome to ShareKhan</string>
+    <string name="lang_doc_msg">Please keep copies of the following documents handy. You will need to upload them in next step.</string>
+    <string name="lang_terms">User Disclaimer</string>
+    <string name="lang_verify_terms">Kindly verify the below points to proceed further</string>
+
+    <string name="lang_check_authorise_fetch_data">I authorize the broker to fetch my data from KRA/CKYC/Aadhaar and use it for account activation.</string>
+    <string name="lang_check_indian_citizen">I am not citizen of USA/Canada</string>
+    <string name="lang_check_taxt_residency_status">My tax residency status is only India</string>
+    <string name="lang_check_not_pep">I am not PEP / related to PEP</string>
+    <string name="lang_check_adult">I am 18+ years old</string>
+    <string name="lang_check_fatca">FATCA</string>
+    <string name="lang_check_individual">I am individual and not a Company</string>
+    <string name="lang_accept_all_terms">Please accept all terms</string>
+
+    <string name="lang_cheque_title">Place front of your Cheque inside this box and click a Sharp Photo</string>
+    <string name="lang_voterid_title">Place front of your Voter ID inside this box and click a Sharp Photo</string>
+    <string name="lang_electricity_title">Place front of your Electricity bill inside this box and click a Sharp Photo</string>
+    <string name="lang_driving_title">Place front of your Driving Licence inside this box and click a Sharp Photo</string>
+
+    <string name="lang_choose_products_title">Choose Products</string>
+    <string name="lang_choose_products_subtitle">Please tick on the products you want to invest in.</string>
+    <string name="lang_consent_product">I have read, understood and agree to the terms and conditions herein.</string>
+
+    <string name="lang_ipv_guide_title">In Person Verification (IPV)</string>
+    <string name="lang_ipv_guide_subtitle">Mandatory as per SEBI guidelines.</string>
+    <string name="lang_record_video">Record Video</string>
+    <string name="lang_record_video_guide">Record a video saying OTP you received</string>
+    <string name="lang_ipv_otp_sent">OTP sent to your mobile number XXXXXXX%1$s</string>
+
+
+    <string name="lang_signature_title">Sign on a blank white paper and upload/click pic.</string>
+
+    <string name="lang_download_documents">Download Documents</string>
+    <string name="lang_step1">Step 1</string>
+    <string name="lang_step2">Step 2</string>
+    <string name="lang_back">Back</string>
+    <string name="lang_download_guide">Download the documents, sign and send to us</string>
+    <string name="lang_download_guide2">Sign and send the documents to below address</string>
+    <string name="lang_or">OR</string>
+    <string name="lang_mobile_not_aadhaar_linked">&lt;u>Mobile not linked to Aadhaar&lt;/u></string>
+    <string name="lang_recieve_aadhaar_otp_message">You will receive an OTP to your Aadhaar linked mobile number</string>
+    <string name="lang_aadhaar_number_masked">Aadhaar Number XXXX XXXX %1$s</string>
+    <string name="lang_send_otp">Send OTP</string>
+
+    <string name="lang_signature_upload_successfully">Signature is successfully uploaded</string>
+    <string name="lang_upload_successfully">successfully uploaded</string>
+    <string name="lang_cheue_upload_successfully">Cheque is successfully uploaded</string>
+    <string name="lang_education">Education</string>
+    <string name="lang_click_here">Click here</string>
+    <string name="lang_diff_email">Use different email ID</string>
+    <string name="lang_to_verify_ifsc"> to verify IFSC</string>
+    <string name="lang_bank_added_successfully">Bank details added successfully </string>
+
+    <string name="lang_passport_front_title">Place front of your Passport inside this box</string>
+    <string name="lang_passport_back_title">Place back of your Passport inside this box</string>
+    <string name="lang_passport_upload_successfully">Passport is successfully uploaded</string>
+    <string name="lang_passport_alert">You have successfully attached one side of your Passport \nNow you have to attach another side.</string>
+
+    <string name="lang_present_flat_error">Provide flat number for present address</string>
+    <string name="lang_present_building_error">Provide building name for present address</string>
+    <string name="lang_present_area_error">Provide area name for present address</string>
+    <string name="lang_present_pin_error">Provide valid pin code for present address</string>
+    <string name="lang_present_resstat_error">Please select residential status for present address</string>
+    <string name="lang_permanent_flat_error">Provide flat number for permanent address</string>
+    <string name="lang_permanent_building_error">Provide building name for permanent address</string>
+    <string name="lang_permanent_area_error">Provide area name for permanent address</string>
+    <string name="lang_permanent_pin_error">Provide valid pin code for permanent address</string>
+    <string name="lang_permanent_resstat_error">Please select residential status for permanent address</string>
+
+
+    <string name="lang_policy_term">Policy Term</string>
+    <string name="lang_premium">Premium</string>
+    <string name="lang_premium_payment_term">Premium Payment Term</string>
+    <string name="lang_sum_assured">Sum Assured</string>
+    <string name="lang_method_of_payment">Method of Payment</string>
+    <string name="lang_bank_name_amp_branch_address"><![CDATA[Bank Name & Branch Address]]></string>
+    <string name="lang_amount_in_rs">Amount (in ₹)</string>
+    <string name="lang_premium_paid_by_message">Is Premium paid by other than Proposer ?</string>
+    <string name="lang_premium_paid_by_name">Premium paid by name</string>
+    <string name="lang_relationship_with_proposer">Relationship with Proposer</string>
+    <string name="lang_preference_of_renewal_premium">Preference of Renewal Premium</string>
+
+    <string name="lang_customer_kyc_verification_message">I/We have read this Application or got read/explained the Application, and furnished the information, after fully understanding the contents thereof</string>
+    <string name="lang_officer_kyc_verification_message">I have authorised applicant details shared with this application</string>
+
+    <string name="lang_life_insurance_details">Life Insurance Details</string>
+
+    <string name="lang_select_address_doc">Proof of address</string>
+
+    <string name="lang_upload_file_here">Upload file here</string>
+    <string name="lang_do_it_manually">Do it manually if you dont have an \n address proof handy</string>
+    <string name="lang_upload_address">Upload your address \n and upload proof</string>
+
+    <string name="lang_personal_detail">Personal Details</string>
+    <string name="lang_experience_occupation">Experience &amp; Occupation</string>
+    <string name="lang_maiden_name">Enter maiden name</string>
+    <string name="lang_other_info_listed_comp">I am not an Ultimate beneficiary of any listed company</string>
+    <string name="lang_other_info_smo">I am not Senior Managing Official of any listed company</string>
+
+    <string name="lang_ultimate_owner_msg">Are you sure you are the ultimate beneficiary owner of listed company ?</string>
+    <string name="lang_senior_managing_msg">Are you sure you are the senior managing official of listed company ?</string>
+
+    <string-array name="lang_ipv_step_list">
+        <item>Step 1</item>
+        <item>Step 2</item>
+        <item>Step 3</item>
+    </string-array>
+
+    <string-array name="lang_ipv_step_data_list">
+        <item>When you are ready, please hold you PAN Card and all uploaded documents one by one next to your face (as shown in the above image) and press the record button.</item>
+        <item>We will take a 10-seconds video and automatically upload it to our server</item>
+        <item>Press Save if the information clear to complete your verification</item>
+    </string-array>
+
+    <string name="lang_upload_income_proof_disc">To activate F&amp;O, Currency and Comm</string>
+    <string name="lang_upload_update_address">Update Address and Upload Proof</string>
+    <string name="lang_upload_bank_disc">For additional verification</string>
+    <string name="lang_upload_address_proof">Update address and Upload proof</string>
+    <string name="lang_upload_offline_kyc">Offline E-KYC Process</string>
+    <string name="lang_upload_doc">Upload Documents</string>
+    <string name="lang_upload_preview">Preview</string>
+    <string name="lang_upload_reload">Re-Upload</string>
+    <string name="lang_upload_delete">Delete</string>
+    <string name="lang_start" >START</string>
+    <string name="lang_upload_ipv">In-Person Verification</string>
+    <string name="lang_save_n_continue">SAVE AND CONTINUE</string>
+    <string name="lang_action_update_address" >UPDATE ADDRESS</string>
+    <string name="lang_take_selfie" >Take a Selfie!</string>
+    <string name="lang_take_picture" >Take a Picture!</string>
+    <string name="lang_ipv_continue" >Continue</string>
+    <string name="lang_ipv_title_desc" >Before we start recording, we need your photo.</string>
+    <string name="lang_ipv_upload_meassage" >Profile picture Upload Successful!</string>
+    <string name="lang_adhar_upload_meassage" >Offline aadhaar card Upload Successful!</string>
+    <string name="lang_payment_success" >Payment of </string>
+    <string name="lang_success" >Successful!</string>
+    <string name="lang_upload_success" >Upload Successful!</string>
+    <string name="lang_ipv_upload_video_meassage" >Video Upload Successful!</string>
+    <string name="lang_ipv_continue_meassage" >Continue to record video</string>
+    <string name="lang_ipv_simply_take_selfie" >Simply take quick selfie</string>
+    <string name="lang_ipv_completed_message" >IPV Completed Successfully</string>
+
+    <string name="lang_verify_emailid" >Verify Email Id</string>
+    <string name="lang_email_verification_hint" >Enter OTP</string>
+    <string name="lang_line_1" >Line 1</string>
+    <string name="lang_line_2" >Line 2</string>
+    <string name="lang_pin_hint" >Pincode</string>
+
+    <string name="lang_okyc_title">Offline E-KYC</string>
+    <string name="lang_present_address_error">Please upload present address</string>
+    <string name="lang_permanent_address_error">Please upload permanent address</string>
+    <string name="lang_okyc_guide">If you don\'t have OfflineKYC XML with you then you can get it by clicking this button. Make sure your Aadhaar is mapped with your mobile number.</string>
+    <string name="lang_e_signature">E-Signature</string>
+    <string name="lang_manual_sign_msg">In case your mobile number is not registered with the Aadhaar database</string>
+    <string name="lang_esign_info">To successfully finish the account opening procedure, let\'s proceed to e-Sign your submission</string>
+    <string name="lang_action_proceed_esign">Proceed to e-sign</string>
+    <string name="lang_mobile_number_not_registered">Mobile number not registered</string>
+    <string name="lang_change_email">Change Email Id</string>
+    <string name="lang_preview_pdf">View Download PDF</string>
+    <string name="lang_client_esign_success">Client E-Sign completed</string>
+    <string name="lang_action_proceed_agent_esign">Proceed with agent e-sign</string>
+
+    <string name="lang_poa">Power of attorney proof</string>
+    <string name="lang_valid_email_message">Please enter valid email id</string>
+    <string name="lang_change_email_msg">In case you like to use a different email ID, tap the following button</string>
+    <string name="lang_complete">COMPLETE</string>
+    <string name="lang_india">India</string>
+
+
+    <string name="lang_checkout_title">Checkout Summary</string>
+    <string name="lang_checkout_info">Why the charge?</string>
+    <string name="lang_checkout_total">Total</string>
+    <string name="lang_checkout_payable">Pay only</string>
+    <string name="lang_checkout_action_pay">Pay now</string>
+
+    <string name="lang_continue">CONTINUE</string>
+    <string name="lang_select_plan">Select Plan</string>
+    <string name="lang_payment_summary">Payment Summary</string>
+    <string name="lang_product_fee">Product fee</string>
+    <string name="lang_application_fee">Application Fee</string>
+    <string name="lang_amount_paid">Amount paid</string>
+    <string name="lang_payment_status">Status</string>
+    <string name="lang_payment_paid_on">Paid on</string>
+    <string name="lang_account_charge">Account Opening charges</string>
+    <string name="lang_account_charge_msg">Choose which brokerage suits you best and choose a plan Tap on Learn more to get additional information about each package</string>
+    <string name="lang_subscription">Subscription</string>
+    <string name="lang_brokerage">Brokerage</string>
+    <string name="lang_amcamount">AMC Amount</string>
+    <string name="lang_learnmore">Learn More</string>
+    <string name="lang_equity">Equity</string>
+    <string name="lang_fno">FnO</string>
+    <string name="lang_intraday">First per</string>
+    <string name="lang_delivery">Delivery</string>
+    <string name="lang_feature">Futures</string>
+    <string name="lang_options">Options</string>
+    <string name="lang_permonth">per Month</string>
+    <string name="lang_free">Free</string>
+    <string name="lang_rupee">₹</string>
+    <string name="lang_enter_email">Please try after sometime</string>
+    <string name="lang_select_relationship">Select Relationship</string>
+    <string name="lang_resume_application">Resume application</string>
+    <string name="lang_update_address">Update Address</string>
+    <string name="lang_manual_sign_message">Thank you for joining with Sharekhan. Post verification, an executive will contact you with further information.</string>
+    <string name="lang_delete_confirm">Are you sure you want to delete this document.</string>
+
+    <string name="lang_dp_tariff">DP Tariff</string>
+    <string name="lang_other_desgination">Other designation</string>
+
+    <string name="lang_complete_ipv">Please complete In-Person Verification</string>
+    <string name="lang_complete_profile">Please upload profile picture</string>
+    <string name="lang_complete_pan">Please upload pan</string>
+    <string name="lang_complete_bank">Please upload bank proof</string>
+    <string name="lang_complete_address">Please upload Address proof</string>
+    <string name="lang_complete_income">Please upload income proof</string>
+    <string name="lang_complete_poa">Please upload POA proof</string>
+    <string name="lang_select_ifsc">Please select bank and branch to fetch IFSC code</string>
+    <string name="lang_no_doc">No documents found on server</string>
+    <string name="lang_havent_received_otp">Haven\'t received OTP? Click to resend</string>
+
+
+    <string name="lang_title_app_status">Application Status</string>
+    <string name="lang_download">Download</string>
+    <string name="lang_not_received_otp">Haven\'t received OTP? Click to resend</string>
+    <string name="lang_digit_otp">6-digit OTP</string>
+    <string name="lang_verify_mobile">Verify Mobile Number</string>
+
+    <string name="lang_congratulation">Congratulations</string>
+    <string name="lang_account_activated">Your account is activated</string>
+    <string name="lang_set_trading_password">Set password AND start trading</string>
+    <string name="lang_poa_heading">eDIS and PoA</string>
+    <string name="lang_poa_detail_1">Through eDIS, you can now sell stocks / transfer as margin via OTP verification even without providing Power of Attorney (PoA) to Sharekhan. Although this is convenient to begin trading, we highly recommend sending us the signed PoA so that we can facilitate all transactions.</string>
+    <string name="lang_poa_detail_2">The PoA document has been sent to your email ID. Please print, sign and send it to our registered office address. Note that PoA is mandatory to invest in IPOs or Mutual Funds through our online platforms. Also, there’s a limit on the value of transactions that Sharekhan can execute using eDIS.</string>
+    <string name="lang_poa_detail_3">Important: Providing PoA doesn’t mean you’re authorising Sharekhan or its associates/employees to make investment decisions for you. It’s just the authority to execute your instructions.</string>
+    <string name="lang_download_poa">Download POA</string>
+
+    <string name="lang_tool_tip_title" >Quick tips</string>
+    <string name="lang_tool_tip_title_charge" >Why the charge?</string>
+    <string name="lang_tool_tip_got_it" >Got it</string>
+    <string name="lang_tool_tip_title_ubo" >UBO Status</string>
+    <string name="lang_tool_tip_title_smo" >SMO Status</string>
+    <string name="lang_tool_tip_message_charge" >This fee allows us to cover the compliance and statutory costs. It also includes the annual maintenance charges (AMC) for your demat account.</string>
+    <string name="lang_tool_tip_message_ubo" >You are the ultimate beneficiary owner of any company if you: - directly or indirectly control that company - own, directly or indirectly, 10% or more of the share capital or voting rights of that company - exercise, by any other means, a control over the management bodies of the company or the general shareholders’ meeting</string>
+    <string name="lang_tool_tip_message_smo" >You are the Senior Managing Official(SMO) of any listed company if you: are the chairman of Board of Directors or Supervisor of Board - are the CRO - are the CFO - have the prominent influence on the companys decision; for example, the COO or other executive</string>
+
+    <string name="lang_didnt_find">Didn\'t find what you were looking for?</string>
+    <string name="lang_contact_support">Contact our support staff</string>
+    <string name="lang_help_subtitle">Understand why the details are required</string>
+    <string name="lang_help_profile_pic">Profile Picture</string>
+    <string name="lang_find_ifsc">Find IFSC</string>
+
+
+</resources>
